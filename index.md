@@ -1,9 +1,9 @@
 # Homepage
 
-## Projects
+### Projects
 
-## Code
+### Code
 
-## Publication
+### Publication
 
 
