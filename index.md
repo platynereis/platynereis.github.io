@@ -1,5 +1,3 @@
-# Homepage
-
 ### Projects
 
 ### Code
