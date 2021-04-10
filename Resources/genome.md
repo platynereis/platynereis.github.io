@@ -1,5 +1,6 @@
 ---
 title: Genome and transcriptome
+permalink: /genome/
 ---
 
 

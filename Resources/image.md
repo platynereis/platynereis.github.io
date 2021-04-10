@@ -1,5 +1,6 @@
 ---
 title: Imaging
+permalink: /image/
 ---
 
 

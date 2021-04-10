@@ -1,6 +1,6 @@
 ---
-layout: home
 title: Literature
+permalink: /paper/
 ---
 
 

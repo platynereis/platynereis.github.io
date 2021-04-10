@@ -1,5 +1,6 @@
 ---
-title: Platynereis culture
+title: Culture
+permalink: /culture/
 ---
 
 

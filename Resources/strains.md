@@ -1,5 +1,6 @@
 ---
 title: Mutant strains and Inbred lines
+permalink: /strains/
 ---
 
 A list of [mutant strains](#mutant-strains) and [inbred lines](#inbred-lines) in *Platynereis*.
