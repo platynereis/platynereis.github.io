@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Mutant strains and Inbred lines
 permalink: /strains/
 ---
