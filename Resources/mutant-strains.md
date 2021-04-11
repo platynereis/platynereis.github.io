@@ -4,6 +4,10 @@ title: Mutant strains
 permalink: /mutants/
 ---
 
+A collection of published and unpublished mutant strains. For further information check the paper or contact the lab. 
+
+<br>
+
 
 | Mutant strains | Genotype | Viability | References |  
 | -------- | ----------- | ------------ | -------------- |

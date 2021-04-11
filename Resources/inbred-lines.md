@@ -4,6 +4,9 @@ title: Inbred lines
 permalink: /inbred/
 ---
 
+Available inbred lines. For further information contact the lab. 
+
+<br>
 
 | Inbred lines | Genotype | References |  
 | -------- | ----------- | ------------ | 
