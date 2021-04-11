@@ -25,6 +25,12 @@ Adaptation and plasticity in animal sensory systems.
 
 <br>
 
+### [Helm lab](https://www.uni-goettingen.de/de/dr.+conrad+helm/577461.html), *Georg-August University Göttingen (Germany)*
+Evolution and development of invertebrate organs and cell types.
+
+
+<br>
+
 ### Hui lab, *The Chinese University of Hong Kong (China)*
 
 <br>
