@@ -13,4 +13,6 @@ Historical and current culturing conditions of *Platynereis dumerilii*.
 
 - [Genome/ transcriptome](/genome/) <br>
 
-- [Strains](/strains/) <br>
+- [Mutant strains](/mutants/) <br>
+
+- [Inbred lines](/inbred/) <br>

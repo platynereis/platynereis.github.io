@@ -5,18 +5,12 @@ permalink: /paper/
 ---
 
 
-## A selection of *Platynereis dumerilii* research papers.
-
-[2021](#2021)/ [2020](#2020)/ [2019](#2019)/ [2018](#2018)/ [2017](#2017)/ [2016](#2016)/ [2015](#2015)/ [2014](#2014)/ [2013](#2013)/ [2012](#2012)/ [2011](#2011)/ [2010](#2010)/ [2009](#2009)/ [2008](#2008)/ [2007](#2007)/ [2006](#2006)/ [2005](#2005)/ [2004](#2004)/ [2003](#2003)/ [2002](#2002)/ [2001](#2001)/ [2000](#2000)/ [1999](#1999)/ [1998](#1998)/ [1997](#1997)/ [1996](#1996)/ [1995](#1995)/ [1993](#1993)/ [1992](#1992)/ [1991](#1991)/ [1990](#1990)/ [1989](#1989)/ [1987](#1987)/ [1986](#1986)/ [1985](#1985)/ [1984](#1984)/ [1981](#1981)/ [1979](#1979)/ [1977](#1977)/ [1976](#1976)/ [1975](#1975)/ [1974](#1974)/ [1973](#1973)/ [1971](#1971)/ [1970](#1970)/ [1969](#1969)/ [1967](#1967)/ [1966](#1966)/ [1965](#1965)/ [1964](#1964)/ / [1963](#1963)/ [1961](#1961)/ [1960](#1960)/ [1959](#1959)/ [1957](#1957)/ [1956](#1956)/ [1955](#1955)/ [1954](#1954)/ [1951](#1951)/ [1950](#1950)/ [1924](#1924)
-
-
 [Last update: Feb 2021]
 
 ### 2021
 
 Veedin Rajan VB, Häfker NS, Arboleda E, Poehn B, Gossenreiter T, Gerrard E, Hofbauer M, Mühlestein C, Bileck A, Gerner C, Ribera d'Alcala M, Buia MC, Hartl M, Lucas RJ, Tessmar-Raible K. **Seasonal variation in UVA light drives hormonal and behavioural changes in a marine annelid via a ciliary opsin.** Nat Ecol Evol. 2021 Feb;5(2):204-218. [doi: 10.1038/s41559-020-01356-1](https://www.nature.com/articles/s41559-020-01356-1). Epub 2021 Jan 11. PMID: 33432133.
 
-[[go to the top]](#literature)
 
 ### 2020
 
@@ -30,7 +24,6 @@ Pende M, Vadiwala K, Schmidbaur H, Stockinger AW, Murawala P, Saghafi S, Dekens 
 
 Kara J, Santos CSG, Macdonald AHH, Simon CA **Resolving the taxonomic identities and genetic structure of two cryptic Platynereis Kinberg species from South Africa** Invertebrate Systematic 2020; 34(6):618-636. [doi: 10.1071/IS19072](https://bioone.org/journals/invertebrate-systematics/volume-34/issue-6/IS19072/Resolving-the-taxonomic-identities-and-genetic-structure-of-two-cryptic/10.1071/IS19072.short).
 
-[[go to the top]](#literature)
 
 ### 2019
 
@@ -52,7 +45,6 @@ Handberg-Thorsager M, Ulman V, Tomançak P, Arendt D, Schubert M. A **Behavioral
 
 Vopalensky P, Tosches MA, Achim K, Handberg-Thorsager M, Arendt D. **From spiral cleavage to bilateral symmetry: the developmental cell lineage of the annelid brain.** BMC Biol. 2019 Oct 22;17(1):81. [doi: 10.1186/s12915-019-0705-x](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-019-0705-x). PMID: 31640768; PMCID: PMC6805352.
 
-[[go to the top]](#literature)
 
 ### 2018
 
@@ -76,7 +68,6 @@ Handberg-Thorsager M, Gutierrez-Mazariegos J, Arold ST, Kumar Nadendla E, Bertuc
 
 Wage J, Rotchell JM, Gambi MC, Hardege JD **Target gene expression studies on Platynereis dumerilii and Platynereis cfr massiliensis at the shallow CO2 vents off Ischia, Italy** Estuarine Coastal and Shelf Science 2018 Jul;207:351-358. [doi: 10.1016/j.ecss.2017.11.012](https://www.sciencedirect.com/science/article/pii/S0272771416305418). 
 
-[[go to the top]](#literature)
 
 ### 2017
 
@@ -104,7 +95,6 @@ Starunov VV, Voronezhskaya EE, Nezlin LP. **Development of the nervous system in
 
 Bakalenko NI, Poznyak AV, Novikova EL, Kulakova MA. **Effect of Retinoids on Post2 Hox gene Expression in Nereid Polychaetes** Russ. J. Dev. Biol. 2017 May;48(3):211-218. [doi: 10.1134/S106236041703002X](https://link.springer.com/article/10.1134/S106236041703002X).
 
-[[go to the top]](#literature)
 
 ### 2016
 
@@ -124,7 +114,6 @@ Gambi MC, Musco L, Giangrande A, Badalamenti F, Micheli F, Kroeker KJ. **Distrib
 
 Arendt D, Tosches MA, Marlow H. **From nerve net to nerve ring, nerve cord and brain--evolution of the nervous system.** Nat Rev Neurosci. 2016 Jan;17(1):61-72. [doi: 10.1038/nrn.2015.15](https://pubmed.ncbi.nlm.nih.gov/26675821/). PMID: 26675821.
 
-[[go to the top]](#literature)
 
 ### 2015
 
@@ -154,7 +143,6 @@ Asadulina A, Conzelmann M, Williams EA, Panzera A, Jékely G. **Object-based rep
 
 Ricevuto E, Vizzini S, Gambi MC. **Ocean acidification effects on stable isotope signatures and trophic interactions of polychaete consumers and organic matter sources at a CO2 shallow vent system** J. Exp. Mar. Biol. Ecol. 2015 Jul;468:105-117. [doi: 10.1016/j.jembe.2015.03.016](https://www.infona.pl/resource/bwmeta1.element.elsevier-f5b58810-4f48-3d26-a147-4ecf93544205).
 
-[[go to the top]](#literature)
 
 ### 2014
 
@@ -190,7 +178,6 @@ Popa LO, Popa OP, Krapal AM, Iorgu EI, Surugiu V. **Fine-scale population geneti
 
 Rajasree V, Shankar CVS, Satheesh S, Punitha SMJ. **Biofilm inhibitory activity of Extracellular Polymeric Substance produced by Exiguobacterium sp. associated with the polychaete Platynereis dumerilii.** Thalassas 2014 Jul;30(2):13-19.
 
-[[go to the top]](#literature)
 
 ### 2013
 
@@ -220,7 +207,6 @@ Yang M, Zhang X. **Comparative developmental toxicity of new aromatic halogenate
 
 Calosi P, Rastrick SP, Lombardi C, de Guzman HJ, Davidson L, Jahnke M, Giangrande A, Hardege JD, Schulze A, Spicer JI, Gambi MC. **Adaptation and acclimatization to ocean acidification in marine ectotherms: an in situ transplant experiment with polychaetes at a shallow CO2 vent system.** Philos Trans R Soc Lond B Biol Sci. 2013 Aug 26;368(1627):20120444. [doi: 10.1098/rstb.2012.0444](https://pubmed.ncbi.nlm.nih.gov/23980245/). PMID: 23980245; PMCID: PMC3758176.
 
-[[go to the top]](#literature)
 
 ### 2012
 
@@ -234,7 +220,6 @@ Hui JH, McDougall C, Monteiro AS, Holland PW, Arendt D, Balavoine G, Ferrier DE.
 
 Conzelmann M, Jékely G. **Antibodies against conserved amidated neuropeptide epitopes enrich the comparative neurobiology toolbox.** Evodevo. 2012 Oct 1;3(1):23. [doi: 10.1186/2041-9139-3-23](https://evodevojournal.biomedcentral.com/articles/10.1186/2041-9139-3-23). PMID: 23020891; PMCID: PMC3503879.
 
-[[go to the top]](#literature)
 
 ### 2011
 
@@ -246,7 +231,6 @@ García-Alonso J, Ayoola JA, Crompton J, Rebscher N, Hardege JD. **Development a
 
 McDougall C, Korchagina N, Tobin JL, Ferrier DE. **Annelid Distal-less/Dlx duplications reveal varied post-duplication fates.** BMC Evol Biol. 2011 Aug 16;11:241. [doi: 10.1186/1471-2148-11-241](https://bmcecolevol.biomedcentral.com/articles/10.1186/1471-2148-11-241). PMID: 21846345; PMCID: PMC3199776.
 
-[[go to the top]](#literature)
 
 ### 2010
 
@@ -266,7 +250,6 @@ Tomer R, Denes AS, Tessmar-Raible K, Arendt D. **Profiling by image registration
 
 Schmidtberg H, Dorresteijn AWC **Ultrastructure of the nuchal organs in the polychaete Platynereis dumerilii (Annelida, Nereididae)** Invertebr Biol 2010;129(3):252-265. [doi: 10.1111/j.1744-7410.2010.00201.x](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1744-7410.2010.00201.x).
 
-[[go to the top]](#literature)
 
 ### 2009
 
@@ -274,7 +257,6 @@ Kerner P, Simionato E, Le Gouar M, Vervoort M. **Orthologs of key vertebrate neu
 
 Hui JH, Raible F, Korchagina N, Dray N, Samain S, Magdelenat G, Jubin C, Segurens B, Balavoine G, Arendt D, Ferrier DE. **Features of the ancestral bilaterian inferred from Platynereis dumerilii ParaHox genes.** BMC Biol. 2009 Jul 23;7:43. [doi: 10.1186/1741-7007-7-43](https://bmcbiol.biomedcentral.com/articles/10.1186/1741-7007-7-43). PMID: 19627570; PMCID: PMC2723086.
 
-[[go to the top]](#literature)
 
 ### 2008
 
@@ -290,7 +272,6 @@ Keay J, Thornton JW. **Hormone-activated estrogen receptors in annelid invertebr
 
 Voronezhskaya EE, Glebov KI, Khabarova MY, Ponimaskin EG, Nezlin LP. **Adult-to-embryo chemical signaling in the regulation of larval development in trochophore animals: cellular and molecular mechanisms.** Acta Biol Hung. 2008;59 Suppl:117-22. [doi: 10.1556/ABiol.59.2008.Suppl.19](https://pubmed.ncbi.nlm.nih.gov/18652383/). PMID: 18652383.
 
-[[go to the top]](#literature)
 
 ### 2007
 
@@ -312,13 +293,11 @@ Tessmar-Raible K, Raible F, Christodoulou F, Guy K, Rembold M, Hausen H, Arendt 
 
 Hui JHL, Kortchagina N, Arendt D, Balavoine G, Ferrier DEK. **Duplication of the ribosomal gene cluster in the marine polychaete Platynereis dumerilii correlates with ITS polymorphism** J. Mar. Biolog. 2007 Apr;87(2):443-449. [doi: 10.1017/S002531540705566X](https://www.cambridge.org/core/journals/journal-of-the-marine-biological-association-of-the-united-kingdom/article/abs/duplication-of-the-ribosomal-gene-cluster-in-the-marine-polychaete-platynereis-dumerilii-correlates-with-its-polymorphism/EC0129385C928D0C9771F89F94756BC1). 
 
-[[go to the top]](#literature)
 
 ### 2006
 
 Kerner P, Zelada González F, Le Gouar M, Ledent V, Arendt D, Vervoort M. **The expression of a hunchback ortholog in the polychaete annelid Platynereis dumerilii suggests an ancestral role in mesoderm development and neurogenesis.** Dev Genes Evol. 2006 Dec;216(12):821-8. [doi: 10.1007/s00427-006-0100-9](https://pubmed.ncbi.nlm.nih.gov/16983541/). Epub 2006 Sep 16. PMID: 16983541.
 
-[[go to the top]](#literature)
 
 ### 2005
 
@@ -330,7 +309,6 @@ de Rosa R, Prud'homme B, Balavoine G. **Caudal and even-skipped in the annelid P
 
 Tessmar-Raible K, Steinmetz PR, Snyman H, Hassel M, Arendt D. **Fluorescent two-color whole mount in situ hybridization in Platynereis dumerilii (Polychaeta, Annelida), an emerging marine molecular model for evolution and development.** Biotechniques. 2005 Oct;39(4):460, 462, 464. [doi: 10.2144/000112023](https://pubmed.ncbi.nlm.nih.gov/16235555/). PMID: 16235555.
 
-[[go to the top]](#literature)
 
 ### 2004
 
@@ -338,13 +316,11 @@ Fischer A, Dorresteijn A. **The polychaete Platynereis dumerilii (Annelida): a l
 
 Arendt D, Tessmar-Raible K, Snyman H, Dorresteijn AW, Wittbrodt J. **Ciliary photoreceptors with a vertebrate-type opsin in an invertebrate brain.** Science. 2004 Oct 29;306(5697):869-71. [doi: 10.1126/science.1099955](https://pubmed.ncbi.nlm.nih.gov/15514158/). PMID: 15514158.
 
-[[go to the top]](#literature)
 
 ### 2003
 
 Prud'homme B, de Rosa R, Arendt D, Julien JF, Pajaziti R, Dorresteijn AW, Adoutte A, Wittbrodt J, Balavoine G. **Arthropod-like expression patterns of engrailed and wingless in the annelid Platynereis dumerilii suggest a role in segment formation.** Curr Biol. 2003 Oct 28;13(21):1876-81. [doi: 10.1016/j.cub.2003.10.006](https://pubmed.ncbi.nlm.nih.gov/14588243/). PMID: 14588243.
 
-[[go to the top]](#literature)
 
 ### 2002
 
@@ -356,7 +332,6 @@ Hagger JA, Fisher AS, Hill SJ, Depledge MH, Jha AN. **Genotoxic, cytotoxic and o
 
 Giangrande A, Fraschetti S, Terlizzi, A **Local recruitment differences in Platynereis dumerilii (Polychaeta, Nereididae) and their consequences for population structure** Ital. J. Zool. 2002;69(2):133-139. [doi: 10.1080/11250000209356450](https://www.tandfonline.com/doi/abs/10.1080/11250000209356450).
 
-[[go to the top]](#literature)
 
 ### 2001
 
@@ -364,7 +339,6 @@ Boore JL. **Complete mitochondrial genome sequence of the polychaete annelid Pla
 
 Arendt D, Technau U, Wittbrodt J. **Evolution of the bilaterian larval foregut.** Nature. 2001 Jan 4;409(6816):81-5. [doi: 10.1038/35051075](https://pubmed.ncbi.nlm.nih.gov/11343117/). PMID: 11343117.
 
-[[go to the top]](#literature)
 
 ### 2000
 
@@ -372,13 +346,11 @@ Boore JL, Brown WM. **Mitochondrial genomes of Galathealinum, Helobdella, and Pl
 
 Gambi MC, Zupo V, Buia MC, Mazzella L. **Feeding ecology of Platynereis dumerilii (Audouin & Milne-Edwards) in the seagrass Posidonia oceanica system: The role of the epiphytic flora (Polychaeta, Nereididae)** Ophelia 2000 Dec;53(3):189-202. [doi: 10.1080/00785326.2000.10409449](10.1080/00785326.2000.10409449).
 
-[[go to the top]](#literature)
 
 ### 1999
 
 Rohl I, Schneider B, Schmidt B, Zeeck E. **L-Ovothiol A: The egg release pheromone of the marine polychaete Platynereis dumerilii: Annelida: Polychaeta** Zeitschrift für Naturforschung C 1999 Dec;54(12):1145-1147. 
 
-[[go to the top]](#literature)
 
 ### 1998
 
@@ -390,19 +362,16 @@ Hardege JD, Muller CT, Beckmann M, Hardege DB, Bentley MG. **Timing of reproduct
 
 Zeeck E, Harder T, Beckmann M. **Uric acid: The sperm-release pheromone of the marine polychaete Platynereis dumerilii** J. Chem. Ecol 1998 JAN;24(1):13-22. [doi: 10.1023/A:1022328610423](https://link.springer.com/article/10.1023/A:1022328610423).
 
-[[go to the top]](#literature)
 
 ### 1997
 
 Jha AN, Hutchinson TH, Mackay JM, Elliott BM, Dixons DR. **Evaluation of the genotoxicity of municipal sewage effluent using the marine worm Platynereis dumerilii (Polychaeta: Nereidae)** MUTATION RESEARCH-GENETIC TOXICOLOGY AND ENVIRONMENTAL MUTAGENESIS 1997 Jul;391(3):179-188. [doi: 10.1016/S1383-5718(97)00070-3](https://pubmed.ncbi.nlm.nih.gov/9268043/).
 
-[[go to the top]](#literature)
 
 ### 1996
 
 Jha AN, Hutchinson TH, Mackay JM, Elliott BM, Dixons DR. **Development of an in vivo genotoxicity assay using the marine worm Platynereis dumerilii (Polychaeta: Nereidae)** MUTATION RESEARCH-ENVIRONMENTAL MUTAGENESIS AND RELATED SUBJECTS 1996 Feb;359(2):141-150. [doi: 10.1016/S0165-1161(96)90260-5](https://www.sciencedirect.com/science/article/pii/S0165116196902605).
 
-[[go to the top]](#literature)
 
 ### 1995
 
@@ -410,7 +379,6 @@ JHA AN, HUTCHINSON TH, MACKAY JM, ELLIOTT BM, PASCOE PL, DIXON DR. **The chromos
 
 Kluge B, Lehmann-Greif M, Fischer A. **Long-lasting exocytosis and massive structural reorganisation in the egg periphery during cortical reaction in Platynereis dumerilii (Annelida, Polychaeta).** Zygote. 1995 May;3(2):141-56. [doi: 10.1017/s0967199400002513](https://pubmed.ncbi.nlm.nih.gov/7582916/). PMID: 7582916.
 
-[[go to the top]](#literature)
 
 ### 1993
 
@@ -420,7 +388,6 @@ Dorresteijn AW, Graffy C. **Competence of blastomeres for the expression of mole
 
 Krawetz SA, Sellos D, Dixon GH. **Analysis of the core histone gene cluster of the annelid Platynereis dumerilii.** DNA Seq. 1993;4(1):29-35. [doi: 10.3109/10425179309015619](https://pubmed.ncbi.nlm.nih.gov/8312603/). PMID: 8312603.
 
-[[go to the top]](#literature)
 
 ### 1992
 
@@ -428,7 +395,6 @@ Schneider S, Fischer A, Dorresteijn AW. **A morphometric comparison of dissimila
 
 Rhode B. **Development and differentiation of the eye in Platynereis dumerilii (Annelida, Polychaeta).** J Morphol. 1992 Apr;212(1):71-85. [doi: 10.1002/jmor.1052120108](https://pubmed.ncbi.nlm.nih.gov/29865584/). PMID: 29865584.
 
-[[go to the top]](#literature)
 
 ### 1991
 
@@ -436,7 +402,6 @@ Dorresteijn AW, Eich P. **Experimental change of cytoplasmic composition can con
 
 ZEECK E, HARDEGE JD, BARTELSHARDEGE H, WILLIG A, WESSELMANN G. **Sex pheromones in a marine polychaete: Biologically active compounds from female Platynereis dumerilii** J. Exp. Zool. 1991 Oct;260(1):93-98. [doi: 10.1002/jez.1402600112](https://onlinelibrary.wiley.com/doi/abs/10.1002/jez.1402600112).
 
-[[go to the top]](#literature)
 
 ### 1990
 
@@ -446,7 +411,6 @@ Dorresteijn AW. **Quantitative analysis of cellular differentiation during early
 
 Zeeck E, Hardege JD, Bartels-Hardege H, Wesselmann G. **Potential sex pheromone in Platynereis dumerilii - identification and synthesis.** Tetrahedron Letters 1990;31(39):5613-5614. [doi: 10.1016/S0040-4039(00)97910-3](https://www.sciencedirect.com/science/article/pii/S0040403900979103).
 
-[[go to the top]](#literature)
 
 ### 1989
 
@@ -454,13 +418,11 @@ Schulz G, Ulbrich KP, Hauenschild C, Pfannenstiel HD. **The atokous-epitokous bo
 
 Grant A. **The reproductive cycle of Platynereis dumerilii (Audouin & Milne-Edwards) (Polychaeta: Nereidae) from the firth of clyde** Sarsia 1989;74920:79-84. [doi: 10.1080/00364827.1989.10420524](https://www.tandfonline.com/doi/abs/10.1080/00364827.1989.10420524).
 
-[[go to the top]](#literature)
 
 ### 1987
 
 Dorresteijn AW, Bornewasser H, Fischer A. **A correlative study of experimentally changed first cleavage and Janus development in the trunk of Platynereis dumerilii (Annelida, Polychaeta).** Rouxs Arch Dev Biol. 1987 Jan;196(1):51-58. [doi: 10.1007/BF00376021](https://link.springer.com/article/10.1007%2FBF00376021). PMID: 28305659.
 
-[[go to the top]](#literature)
 
 ### 1986
 
@@ -468,7 +430,6 @@ Sellos D. **Fractionation by high-performance liquid chromatography and characte
 
 Evans SM, Downie PJ. **Decision-making processes in the polychaete Platynereis dumerilii.** Animal Behaviour 1986;34(2):472-479. [doi 10.1016/S0003-3472(86)80116-6](https://www.sciencedirect.com/science/article/pii/S0003347286801166).
 
-[[go to the top]](#literature)
 
 ### 1985
 
@@ -478,36 +439,30 @@ Bedford AP, Moore PG. **Macrofaunal involvement in the sublittoral decay of kelp
 
 Kmiecik D, Sellos D, Belaïche D, Sautiere P. **Primary structure of the two variants of a sperm-specific histone H1 from the annelid Platynereis dumerilii.** Eur J Biochem. 1985 Jul 15;150(2):359-70. [doi: 10.1111/j.1432-1033.1985.tb09028.x](https://febs.onlinelibrary.wiley.com/doi/full/10.1111/j.1432-1033.1985.tb09028.x). PMID: 4018088.
 
-[[go to the top]](#literature)
 
 ### 1984
 
 HOFMANN DK, SCHIEDGES I. **Brain hormone levels and feed back regulation during gametogenesis, metamorphosis and regeneration in Platynereis dumerilii - An experimental approach.** Fortschritte der Zoologie 1984;29:73-79.
 
-[[go to the top]](#literature)
 
 ### 1981
 
 Evans SM. **Effects of changes in sensory input on patterns of tubicolous activity in the polychaete Platynereis dumerilii.** Mar Freshw Behav Physiol 1981;7(4):307-139.
 
-[[go to the top]](#literature)
 
 ### 1979
 Jacobs RPWM, Pierson ES. **Zostera marina spathes as a habitat for Platynereis dumerilii (Audouin and Milne-Edwards, 1834).** Aquatic Botany 1979;6:403-406.
 
-[[go to the top]](#literature)
 
 ### 1977
 
 Fischer A. **Autonomy for a specific gene product in oocytes-experimental evidence in polychaetous annelid, Platynereis dumerilii.** Dev Biol 1977;55(1):46-58.
 
-[[go to the top]](#literature)
 
 ### 1976
 
 Hofmann DK. **Regeneration and Endocrinology in polychaete Platynereis dumerilii - Experimental and structural study.** Wilehm Roux's Arch. Dev. Biol. 1976;180(1):47-71.
 
-[[go to the top]](#literature)
 
 ### 1975
 
@@ -515,7 +470,6 @@ Fischer A. **Structure of symplasmic early oocytes and their enveloping sheath c
 
 Hofmann DK. **Prostomial regeneration in the polychaete Platynereis dumerilii (Audouin et Milne-Edwards) (Annelida).** Wilehm Roux Arch Dev Biol. 1975 Dec;177(4):309-322. [doi: 10.1007/BF00848182](https://pubmed.ncbi.nlm.nih.gov/28304999/). PMID: 28304999.
 
-[[go to the top]](#literature)
 
 ### 1974
 
@@ -527,13 +481,11 @@ Boillyma Y. **Experimental study on nuptial behavior of Platynereis dumerilii (A
 
 Fischer A. **Activity of a gene in transplanted oocytes in the annelid, Platynereis.** Wilhelm Roux Arch Entwickl Mech Org. 1974 Sep;174(3):250-251. [doi: 10.1007/BF00573228](https://pubmed.ncbi.nlm.nih.gov/28304851/). PMID: 28304851.
 
-[[go to the top]](#literature)
 
 ### 1973
 
 Müller WA. **Autoradiographische Untersuchungen über die synthetische Aktivität neurosektrotorischer Zellen im Gehirn von Platynereis dumerilii während der sexuellen Entwicklung und Regeneration** [Autoradiographic studies on the synthetic activity of neurosecretory cells in the brain of Platynereis dumerilii during sexual development and regeneration]. Z Zellforsch Mikrosk Anat. 1973 Jun 7;139(4):487-510. German. [PMID: 4724528](https://pubmed.ncbi.nlm.nih.gov/4724528/).
 
-[[go to the top]](#literature)
 
 ### 1971
 
@@ -541,7 +493,6 @@ Fischer A. **Action of or-gene on pigmentation in Platynereis dumerilii (Polycha
 
 Fischer A. **Action of or-gene on pigmentation in Platynereis dumerilii (Polychaeta) 2.Pigment deposition as caused by a maternal effect or immediately by or-gene activity.** Wilhelm Roux Arch Entwickl Mech Org. 1971;168(3):242-+.
 
-[[go to the top]](#literature)
 
 ### 1970
 
@@ -549,7 +500,6 @@ Viscontini M, Hummel W, Fischer A. **Pigments of nereids (Annelida, Polychaeta) 
 
 Roseler, I. **Rhythm of chromatophores of polychaeta Platynereis dumerilii.**  Z Vgl Physiol 1970;70(2).
 
-[[go to the top]](#literature)
 
 ### 1969
 
@@ -561,13 +511,11 @@ Fischer A. **Eine Pigmentmangelmutante bei dem Polychaeten Platynereis dumerilii
 
 Cazaux C, Labourg PJ. **Swarming of Platynereis dumerilii in Bassin of Arachon.** VIE ET MILIEU SERIE A-BIOLOGIE MARINE 1969;20(3).
 
-[[go to the top]](#literature)
 
 ### 1967
 
 Boillymarer Y. **CONTRIBUTION A LETUDE DU DETERMINISME DE LEMISSION DES PRODUITS GENITAUX CHEZ UN NEREIDIEN (PLATYNEREIS DUMERILII AUD ET M EDW ANNELIDE POLYCHETE).** COMPTES RENDUS HEBDOMADAIRES DES SEANCES DE L ACADEMIE DES SCIENCES SERIE 1967;264(18).
 
-[[go to the top]](#literature)
 
 ### 1966
 
@@ -577,13 +525,11 @@ Fischer A, Brökelmann J. **Das Auge von Platynereis dumerilii (Polychaeta): Sei
 
 Brökelmann J, Fischer A. **Uber die Cuticula von Platynereis Dumerilii (Polychaeta)** [On the cuticle of Platynereis Dumerilii (Polychaeta)]. Z Zellforsch Mikrosk Anat. 1966;70(2):131-5. German. [doi: 10.1007/BF00335669](https://link.springer.com/article/10.1007/BF00335669). PMID: 5987160.
 
-[[go to the top]](#literature)
 
 ### 1965
 
 Fischer A. **Uber die Chromatophoren und den Farbwechsel bei dem Polychaeten Platynereis dumerilii.** Z Zellforsch Mikrosk Anat. 1965;65(2).
 
-[[go to the top]](#literature)
 
 ### 1964
 
@@ -591,37 +537,31 @@ Hauenschild C. **LINFLUENCE DE LHORMONE DU CERVEAU SUR LE DEVELOPPEMENT POSTEMBR
 
 Lindner E, Fischer A. **Zur Feinstruktur nereider und heteronereider Muskulatur von Platynereis dumerillii}** Naturwissenschaften 1964;51(17).
 
-[[go to the top]](#literature)
 
 ### 1963
 
 FISCHER A. **UBER DEN BAU UND DIE HELL-DUNKEL-ADAPTATION DER AUGEN DES POLYCHAETEN PLATYNEREIS DUMERILII.** [ON THE STRUCTURE AND LIGHT-DARK ADAPTATION OF THE EYES OF THE POLYCHAETE PLATYNEREIS DUMERILII]. Z Zellforsch Mikrosk Anat. 1963 Nov 21;61:338-53. German. PMID: 14104679.
 
-[[go to the top]](#literature)
 
 ### 1961
 
 Hauenschild C. **DIE SCHWARMPERIODIZITAT VON PLATYNEREIS DUMERILII IM DD/LD-BELICHTUNGSZYKLUS UND NACH AUGENAUSSCHALTUNG**  ZEITSCHRIFT FUR NATURFORSCHUNG PART B-CHEMIE BIOCHEMIE BIOPHYSIK BIOLOGIE UND VERWANDTEN GEBIETE 1961;B16(11).
 
-[[go to the top]](#literature)
 
 ### 1960
 
 Hauenschild C. **ABHANGIGKEIT DER REGENERATIONSLEISTUNG VON DER INNEREN SEKRETION IM PROSTOMIUM BEI PLATYNEREIS-DUMERILII.** ZEITSCHRIFT FUR NATURFORSCHUNG PART B-CHEMIE BIOCHEMIE BIOPHYSIK BIOLOGIE UND VERWANDTEN GEBIETE 1960;15(1):52-55.
 
-[[go to the top]](#literature)
 
 ### 1959
 
 Hauenschild C. **ZYKLISCHE VERANDERUNGEN AN DEN INKRETORISCHEN DRUSENZELLEN IM PROSTOMIUM DES POLYCHAETEN PLATYNEREIS-DUMERILII ALS GRUNDLAGE DER SCHWARMPERIODIZITAT.** ZEITSCHRIFT FUR NATURFORSCHUNG PART B-CHEMIE BIOCHEMIE BIOPHYSIK BIOLOGIE UND VERWANDTEN GEBIETE 1959;14(2).
 
-[[go to the top]](#literature)
 
 ### 1957
 
 Kiseleva MI. **LUNAR PERIODICITY IN THE SWARMING OF HETERONEREITIC FORMS OF PLATYNEREIS-DUMERILII (AUD ET EDW) AND NEREIS-ZONATA MALMGREN IN THE BLACK SEA.**  DOKLADY AKADEMII NAUK SSSR 1957;117(4):713-716.
 
-[[go to the top]](#literature)
 
 ### 1956
 
@@ -629,19 +569,16 @@ Hauenschild C. **HORMONALE HEMMUNG DER GESCHLECHTSREIFE UND METAMORPHOSE BEI DEM
 
 Hauenschild C. **WEITERE VERSUCHE ZUR FRAGE DES JUVENILHORMONS BEI PLATYNEREIS** ZEITSCHRIFT FUR NATURFORSCHUNG PART B-CHEMIE BIOCHEMIE BIOPHYSIK BIOLOGIE UND VERWANDTEN GEBIETE 1956;11(9-10).
 
-[[go to the top]](#literature)
 
 ### 1955
 
 Hauenschild C. **PHOTOPERIODIZITAT ALS URSACHE DES VON DER MONDPHASE ABHANGIGEN METAMORPHOSE-RHYTHMUS BEI DEM POLYCHAETEN PLATYNEREIS-DUMERILII** ZEITSCHRIFT FUR NATURFORSCHUNG PART B-CHEMIE BIOCHEMIE BIOPHYSIK BIOLOGIE UND VERWANDTEN GEBIETE 1955;10(11):658-662.
 
-[[go to the top]](#literature)
 
 ### 1954
 
 Hauenschild C. **UBER DAS LUNARPERIODISCHE SCHWARMEN VON PLATYNEREIS DUMERILII IN LABORATORIUMSZUCHTEN.** Naturwissenschaften 1954;41(23).
 
-[[go to the top]](#literature)
 
 ### 1951
 
@@ -649,19 +586,16 @@ Cresp J. **AUTOTOMIE ET REGENERATION CHEZ PLATYNEREIS-DUMERILII (AUD ET M-EDW).*
 
 Abeloos M. **IRREVERSIBILITE DU CHANGEMENT DE SEXE CHEZ PLATYNEREIS-DUMERILII (AUD ET M-EDW.)** COMPTES RENDUS HEBDOMADAIRES DES SEANCES DE L ACADEMIE DES SCIENCES 1951;232(26).
 
-[[go to the top]](#literature)
 
 ### 1950
 
 Abeloos M. **CHANGEMENT DE SEXE ET COMPORTEMENT SEXUEL DE PLATYNEREIS-DUMERILII (AUD ET M EDW) (FORME ATOQUE)** COMPTES RENDUS HEBDOMADAIRES DES SEANCES DE L ACADEMIE DES SCIENCES 1950;231(2):179-180.
 
-[[go to the top]](#literature)
 
 ### 1924
 
 Herpin R. **Swarming of Perinereis Marioni (Aud and Edwards) - The evolutionary cycle of Platynereis Dumerilii (Aud and Edwards)**  COMPTES RENDUS HEBDOMADAIRES DES SEANCES DE L ACADEMIE DES SCIENCES 1924;179:1209-1212. 
 
-[[go to the top]](#literature)
 
 
 
