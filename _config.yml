@@ -40,6 +40,15 @@ defaults:
     values:
       image: true 
 
+defaults:
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
+
       
 # Exclude from processing.
 # The following items will not be processed, by default.
