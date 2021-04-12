@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Protocols
-permalink: /protocols/
+permalink: /resources/protocols/
 ---
 
 

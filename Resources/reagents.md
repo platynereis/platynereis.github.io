@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reagents
-permalink: /reagents/
+permalink: /resources/reagents/
 ---
 
 A list of availble reagents, including anitbodies, plasmids and others.

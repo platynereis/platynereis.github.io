@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Imaging
-permalink: /image/
+permalink: /resources/image/
 ---
 
 
 A collection of imaging resources for *Platynereis dumerilii*. Examples include gene expression, electron microscopy volumes, and live imaging.
 
-| Database | Description | Stage(s)[^1] |   
+| Database | Description | Stage(s)[^1] |
 | -------- | ----------- | ------------ |
 | [Platybrowser](https://github.com/mobie/mobie-viewer-fiji#mmb-fiji) | The [Arendt lab](https://www.embl.de/research/units/dev_biology/arendt/) registered a gene expression atlas of >200 genes with a cellular EM volume of a six day old *Platynereis* larva [(Vergara et al 2020)](https://www.biorxiv.org/content/10.1101/2020.02.26.961037v1). It is publicly accessible via the Platybrowser in Fiji. | 6 dpf |
 | [CATMAID-Jékely-lab](https://catmaid.jekelylab.ex.ac.uk) | The whole animal connectome from the [Jékely lab](https://www.exeter.ac.uk/livingsystems/team/profile/index.php?web_id=Gaspar_Jekely) contains 180 neuronal and 90 non-neuronal cell-types and the synatic neuronal circuits from sensory cells to one of the four effector systems [(Verasztó et al. 2020)](https://www.biorxiv.org/content/10.1101/2020.08.21.260984v2). The connectome can be accessed via the CATMAID instance. | 3 dpf |

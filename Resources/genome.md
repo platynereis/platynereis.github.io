@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Genome and transcriptome
-permalink: /genome/
+permalink: /resources/genome/
 ---
 
 
 A collection of genomic and transcriptomic resources.
 
-| Database | Description | Stage(s)[^1] |   
+| Database | Description | Stage(s)[^1] |
 | -------- | ----------- | ----------- |
 | [PdumBase](http://140.109.48.81/platynereis) | Openly accessible transcriptome database from the [Schneider lab](http://140.109.49.7/lab.php?id=48) of multiple developmental stages [(Chou et al. 2018)](https://link.springer.com/article/10.1186/s12864-018-4987-0). | 2hpf-14hpf, larva and adult[^2] |
 | [Neuropeptide complement](http://pdumbase.gdcb.iastate.edu) | Stage specific transcription profile of the large neuropeptide repertoire in *Platynereis dumerilii* [(Conzelmann et al. 2013)](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-14-906). Data are accessible via PdumBase. | larva and adult[^2] |

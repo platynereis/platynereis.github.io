@@ -1,17 +1,17 @@
 ---
 layout: page
 title: Techniques
-permalink: /techniques/
+permalink: /resources/techniques/
 ---
 
 
-| Lifecycle and Ecology | References |  
+| Lifecycle and Ecology | References |
 | ----------- | -------------- |
 | Platynereis acquaculture | [Kuehn et al. 2003](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226156) |
 | Ecology and Distribution | [Veedin Rajan et al. 2020](https://www.nature.com/articles/s41559-020-01356-1) |
 
 
-| Behavior | References |  
+| Behavior | References |
 | ----------- | -------------- |
 | Microfluidics | [Chartier et al. 2018](https://royalsocietypublishing.org/doi/10.1098/rsob.180139), [Ramanathan et al. 2015](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0140553) |
 | Chronobiology | [Zantke et al. 2013](https://www.sciencedirect.com/science/article/pii/S2211124713004725?via%3Dihub), [Arboleda et al. 2019](https://www.frontiersin.org/articles/10.3389/fphys.2019.00900/full) |
@@ -26,7 +26,7 @@ permalink: /techniques/
 | Pharmacology (rhythm and clock analyses)  | [Zantke et al. 2013](https://www.sciencedirect.com/science/article/pii/S2211124713004725?via%3Dihub) |
 
 
-| Imaging | References |  
+| Imaging | References |
 | ----------- | -------------- |
 | Reflection-confocal microscopy of NBT/BCIP stained embryos | [Jékely and Arendt 2018](https://www.future-science.com/doi/10.2144/000112462) |
 | Clearing methods  | [Pende et al. 2020](https://pubmed.ncbi.nlm.nih.gov/32523996/), [Asadulina et al. 2012](https://pubmed.ncbi.nlm.nih.gov/23199348/) |
@@ -48,7 +48,7 @@ permalink: /techniques/
 |  Embryonic and larval whole-body gene expression pattern registration | [Gazave et al. 2017](https://royalsocietypublishing.org/doi/full/10.1098/rsob.160242#d3e3337), [Kostyuchenko et al. 2018](https://anatomypubs.onlinelibrary.wiley.com/doi/full/10.1002/dvdy.7), [Asadulina et al. 2012](https://evodevojournal.biomedcentral.com/articles/10.1186/2041-9139-3-27), [Asadulina et al. 2015](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0652-7) |
 
 
-| Sequencing and DNA/ RNA editing | References |  
+| Sequencing and DNA/ RNA editing | References |
 | ----------- | -------------- |
 | Global and gene-specific DNA methylation quantifications  | [Planques et al. 2020](https://www.biorxiv.org/content/10.1101/2020.11.13.381673v1) |
 | Transcriptomics | [Schenk et al. 2019](https://elifesciences.org/articles/41556), [Conzelmann et al. 2013](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-14-906)  |
@@ -63,7 +63,7 @@ permalink: /techniques/
 | Gene knock-down (morpholinos, shRNA) | [Handberg-Thorsager et al. 2018](https://advances.sciencemag.org/content/4/2/eaao1261), [Conzelmann et al. 2013](https://www.pnas.org/content/110/20/8224.long), [Shahidi et al. 2015](https://elifesciences.org/articles/11147) |
 
 
-| Biochemistry | References |  
+| Biochemistry | References |
 | ----------- | -------------- |
 | GPCR deorphanisation | [Conzelmann et al. 2013](https://www.pnas.org/content/110/20/8224.long), [Bauknecht and Jékely 2015](https://www.cell.com/cell-reports/fulltext/S2211-1247(15)00678-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2211124715006786%3Fshowall%3Dtrue), [Bauknecht and Jékely 2017](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-016-0341-7), [Williams et al. 2017](https://elifesciences.org/articles/26349) |
 | Opsin spectra | [Gühmann et al. 2015](https://www.cell.com/current-biology/fulltext/S0960-9822(15)00820-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982215008209%3Fshowall%3Dtrue), [Verasztó et al. 2018](https://elifesciences.org/articles/36440) |
