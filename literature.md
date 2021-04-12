@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Literature
-permalink: /paper/
+permalink: /literature/
 ---
 
 
@@ -66,7 +66,7 @@ Achim K, Eling N, Vergara HM, Bertucci PY, Musser J, Vopalensky P, Brunet T, Col
 
 Handberg-Thorsager M, Gutierrez-Mazariegos J, Arold ST, Kumar Nadendla E, Bertucci PY, Germain P, Tomançak P, Pierzchalski K, Jones JW, Albalat R, Kane MA, Bourguet W, Laudet V, Arendt D, Schubert M. **The ancestral retinoic acid receptor was a low-affinity sensor triggering neuronal differentiation.** Sci Adv. 2018 Feb 21;4(2):eaao1261. [doi: 10.1126/sciadv.aao1261](https://pubmed.ncbi.nlm.nih.gov/29492455/). PMID: 29492455; PMCID: PMC5821490.
 
-Wage J, Rotchell JM, Gambi MC, Hardege JD **Target gene expression studies on Platynereis dumerilii and Platynereis cfr massiliensis at the shallow CO2 vents off Ischia, Italy** Estuarine Coastal and Shelf Science 2018 Jul;207:351-358. [doi: 10.1016/j.ecss.2017.11.012](https://www.sciencedirect.com/science/article/pii/S0272771416305418). 
+Wage J, Rotchell JM, Gambi MC, Hardege JD **Target gene expression studies on Platynereis dumerilii and Platynereis cfr massiliensis at the shallow CO2 vents off Ischia, Italy** Estuarine Coastal and Shelf Science 2018 Jul;207:351-358. [doi: 10.1016/j.ecss.2017.11.012](https://www.sciencedirect.com/science/article/pii/S0272771416305418).
 
 
 ### 2017
@@ -291,7 +291,7 @@ Denes AS, Jékely G, Steinmetz PR, Raible F, Snyman H, Prud'homme B, Ferrier DE,
 
 Tessmar-Raible K, Raible F, Christodoulou F, Guy K, Rembold M, Hausen H, Arendt D. **Conserved sensory-neurosecretory cell types in annelid and fish forebrain: insights into hypothalamus evolution.** Cell. 2007 Jun 29;129(7):1389-400. [doi: 10.1016/j.cell.2007.04.041](https://pubmed.ncbi.nlm.nih.gov/17604726/). PMID: 17604726.
 
-Hui JHL, Kortchagina N, Arendt D, Balavoine G, Ferrier DEK. **Duplication of the ribosomal gene cluster in the marine polychaete Platynereis dumerilii correlates with ITS polymorphism** J. Mar. Biolog. 2007 Apr;87(2):443-449. [doi: 10.1017/S002531540705566X](https://www.cambridge.org/core/journals/journal-of-the-marine-biological-association-of-the-united-kingdom/article/abs/duplication-of-the-ribosomal-gene-cluster-in-the-marine-polychaete-platynereis-dumerilii-correlates-with-its-polymorphism/EC0129385C928D0C9771F89F94756BC1). 
+Hui JHL, Kortchagina N, Arendt D, Balavoine G, Ferrier DEK. **Duplication of the ribosomal gene cluster in the marine polychaete Platynereis dumerilii correlates with ITS polymorphism** J. Mar. Biolog. 2007 Apr;87(2):443-449. [doi: 10.1017/S002531540705566X](https://www.cambridge.org/core/journals/journal-of-the-marine-biological-association-of-the-united-kingdom/article/abs/duplication-of-the-ribosomal-gene-cluster-in-the-marine-polychaete-platynereis-dumerilii-correlates-with-its-polymorphism/EC0129385C928D0C9771F89F94756BC1).
 
 
 ### 2006
@@ -349,7 +349,7 @@ Gambi MC, Zupo V, Buia MC, Mazzella L. **Feeding ecology of Platynereis dumerili
 
 ### 1999
 
-Rohl I, Schneider B, Schmidt B, Zeeck E. **L-Ovothiol A: The egg release pheromone of the marine polychaete Platynereis dumerilii: Annelida: Polychaeta** Zeitschrift für Naturforschung C 1999 Dec;54(12):1145-1147. 
+Rohl I, Schneider B, Schmidt B, Zeeck E. **L-Ovothiol A: The egg release pheromone of the marine polychaete Platynereis dumerilii: Annelida: Polychaeta** Zeitschrift für Naturforschung C 1999 Dec;54(12):1145-1147.
 
 
 ### 1998
@@ -594,7 +594,7 @@ Abeloos M. **CHANGEMENT DE SEXE ET COMPORTEMENT SEXUEL DE PLATYNEREIS-DUMERILII 
 
 ### 1924
 
-Herpin R. **Swarming of Perinereis Marioni (Aud and Edwards) - The evolutionary cycle of Platynereis Dumerilii (Aud and Edwards)**  COMPTES RENDUS HEBDOMADAIRES DES SEANCES DE L ACADEMIE DES SCIENCES 1924;179:1209-1212. 
+Herpin R. **Swarming of Perinereis Marioni (Aud and Edwards) - The evolutionary cycle of Platynereis Dumerilii (Aud and Edwards)**  COMPTES RENDUS HEBDOMADAIRES DES SEANCES DE L ACADEMIE DES SCIENCES 1924;179:1209-1212.
 
 
 
