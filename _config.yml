@@ -41,6 +41,10 @@ defaults:
       image: true
 
 header_pages:
+  - index.markdown
+  - literature.md
+  - labs.md
+  - people.md
   - resources.md
   - about.markdown
 
