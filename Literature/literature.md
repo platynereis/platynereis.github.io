@@ -344,7 +344,7 @@ Arendt D, Technau U, Wittbrodt J. **Evolution of the bilaterian larval foregut.*
 
 Boore JL, Brown WM. **Mitochondrial genomes of Galathealinum, Helobdella, and Platynereis: sequence and gene arrangement comparisons indicate that Pogonophora is not a phylum and Annelida and Arthropoda are not sister taxa.** Mol Biol Evol. 2000 Jan;17(1):87-106. [doi: 10.1093/oxfordjournals.molbev.a026241](https://academic.oup.com/mbe/article/17/1/87/975573). PMID: 10666709.
 
-Gambi MC, Zupo V, Buia MC, Mazzella L. **Feeding ecology of Platynereis dumerilii (Audouin & Milne-Edwards) in the seagrass Posidonia oceanica system: The role of the epiphytic flora (Polychaeta, Nereididae)** Ophelia 2000 Dec;53(3):189-202. [doi: 10.1080/00785326.2000.10409449](10.1080/00785326.2000.10409449).
+Gambi MC, Zupo V, Buia MC, Mazzella L. **Feeding ecology of Platynereis dumerilii (Audouin & Milne-Edwards) in the seagrass Posidonia oceanica system: The role of the epiphytic flora (Polychaeta, Nereididae)** Ophelia 2000 Dec;53(3):189-202. [doi: 10.1080/00785326.2000.10409449](https://www.tandfonline.com/doi/abs/10.1080/00785326.2000.10409449).
 
 
 ### 1999
