@@ -73,5 +73,13 @@ Evolution of stem cells and regeneration, using the model organism *Platynereis 
 
 <br>
 
-### Williams lab, *University of Exeter (United Kingdom)*
-Larval development, ecology and evolution.
+### [Williams lab](https://biosciences.exeter.ac.uk/staff/profile/index.php?web_id=Elizabeth_Williams), *University of Exeter (United Kingdom)*
+Research in my lab focuses on understanding metamorphosis in marine invertebrate larvae. We primarily use *Platynereis* as a lab model. 
+
+
+Our research has three main areas of investigation: 
+
+- identification of environmental cues for larval settlement and metamorphosis 
+- morphology and physiology of larval sensory systems  
+- molecular signaling pathways for metamorphosis 
+
