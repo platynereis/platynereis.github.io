@@ -4,7 +4,7 @@ title: Mutant strains
 permalink: /resources/mutants/
 ---
 
-A collection of published and unpublished mutant strains. For further information check the paper or contact the lab.
+A collection of published and unpublished mutant strains. For further information contact the lab.
 
 <br>
 

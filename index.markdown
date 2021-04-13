@@ -4,7 +4,7 @@ title: Platynereis dumerilii
 #permalink: /home/
 ---
 
-The marine annelid *Platynereis dumerilii* is an    REVIEW article
+
 
 ### Blog
 

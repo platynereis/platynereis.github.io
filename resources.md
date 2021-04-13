@@ -4,8 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 
-* [Culture](/resources/culture/) <br>
-Historical and current culturing conditions of *Platynereis dumerilii*.
+- [Culture](/resources/culture/) <br>
 
 - [Imaging](/resources/image/) <br>
 
