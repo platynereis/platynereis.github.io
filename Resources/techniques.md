@@ -8,7 +8,7 @@ permalink: /resources/techniques/
 | Lifecycle and Ecology | References |
 | ----------- | -------------- |
 | Platynereis acquaculture | [Kuehn et al. 2003](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226156) |
-| Ecology and Distribution | [Veedin Rajan et al. 2020](https://www.nature.com/articles/s41559-020-01356-1) |
+| Ecology and Distribution | [Veedin Rajan et al. 2021](https://www.nature.com/articles/s41559-020-01356-1) |
 
 
 | Behavior | References |

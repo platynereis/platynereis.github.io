@@ -5,9 +5,12 @@ permalink: /literature/
 ---
 
 
-[Last update: Feb 2021]
+[Last update: April 2021]
 
 ### 2021
+
+Torres JP, Lin Z, Watkins M, Salcedo PF, Baskin RP, Elhabian S, Safavi-Hemami H, Taylor D, Tun J, Concepcion GP, Saguil N, Yanagihara AA, Fang Y, McArthur JR, Tae HS, Finol-Urdaneta RK, Özpolat BD, Olivera BM, Schmidt EW. **Small-molecule mimicry hunting strategy in the imperial cone snail, Conus imperialis.** Sci Adv. 2021 Mar 12;7(11):eabf2704. [doi: 10.1126/sciadv.abf2704](https://pubmed.ncbi.nlm.nih.gov/33712468/). PMID: 33712468; PMCID: PMC7954447.
+Format:
 
 Veedin Rajan VB, Häfker NS, Arboleda E, Poehn B, Gossenreiter T, Gerrard E, Hofbauer M, Mühlestein C, Bileck A, Gerner C, Ribera d'Alcala M, Buia MC, Hartl M, Lucas RJ, Tessmar-Raible K. **Seasonal variation in UVA light drives hormonal and behavioural changes in a marine annelid via a ciliary opsin.** Nat Ecol Evol. 2021 Feb;5(2):204-218. [doi: 10.1038/s41559-020-01356-1](https://www.nature.com/articles/s41559-020-01356-1). Epub 2021 Jan 11. PMID: 33432133.
 
@@ -349,7 +352,7 @@ Gambi MC, Zupo V, Buia MC, Mazzella L. **Feeding ecology of Platynereis dumerili
 
 ### 1999
 
-Rohl I, Schneider B, Schmidt B, Zeeck E. **L-Ovothiol A: The egg release pheromone of the marine polychaete Platynereis dumerilii: Annelida: Polychaeta** Zeitschrift für Naturforschung C 1999 Dec;54(12):1145-1147.
+Röhl I, Schneider B, Schmidt B, Zeeck E. **L-Ovothiol A: The egg release pheromone of the marine polychaete Platynereis dumerilii: Annelida: Polychaeta** Zeitschrift für Naturforschung C 1999 Dec;54(12):1145-1147.
 
 
 ### 1998
