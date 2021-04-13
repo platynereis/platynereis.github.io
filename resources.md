@@ -15,8 +15,9 @@ Historical and current culturing conditions of *Platynereis dumerilii*.
 
 - [Inbred lines](/resources/inbred/) <br>
 
+- [Techniques](/resources/techniques/) <br>
+
 - [Protocols](/resources/protocols/) <br>
 
 - [Reagents](/resources/reagents/) <br>
 
-- [Techniques](/resources/techniques/) <br>

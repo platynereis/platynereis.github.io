@@ -6,7 +6,7 @@ title: Platynereis dumerilii
 
 The marine annelid *Platynereis dumerilii* is an    REVIEW article
 
-## Blog
+### Blog
 
 {% for post in site.posts %}
   <li><a href="{{ post.url }}">{{post.title}}</a></li>
