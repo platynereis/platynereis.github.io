@@ -35,4 +35,4 @@ A collection of published and unpublished mutant strains. For further informatio
 | *Prepro-myoinhibitory peptide (MIP)* | MIP (-90/-90), MIP (-10/-10), MIP (-19/-19), MIP (-7/-7) | homozygous | Unpublished <br> Contact: e.williams2@exeter.ac.uk |
 | *No Mechanoreceptor Potential C (NOMPC)* | NOMPC (-1/-1), NOMPC (+1/+1) | homozygous | Unpublished <br> Contact: g.jekely@exeter.ac.uk |
 | *Nitric Oxide Synthase (NOS)* | NOS(-11/-11), NOS (-23/-23) | homozygous | Unpublished <br> Contact: g.jekely@exeter.ac.uk |
-| *prepro-RGWamide* | RGWa (-171/-171), RGWa (-37/37), RGWa (-37/-37) | | homozygous | Unpublished <br> Contact: g.jekely@exeter.ac.uk |
+| *prepro-RGWamide* | RGWa (-171/-171), RGWa (-37/37), RGWa (-37/-37) | homozygous | Unpublished <br> Contact: g.jekely@exeter.ac.uk |
