@@ -3,12 +3,9 @@ layout: page
 title: Inbred lines
 permalink: /resources/inbred/
 ---
-
-Available inbred lines. For further information contact the lab.
-
 <br>
 
-| Inbred lines | Genotype | References |
+| Inbred line | Genotype | References |
 | -------- | ----------- | ------------ |
 | Vio wildtype <br> (two separate substrains 1 and 4) | wildtype, Heidelberg origin, incrossed >25 generations | Related to PIN <br> [Zantke et al. 2014](https://pubmed.ncbi.nlm.nih.gov/24807110/) |
 | PIN wildtype | wildtype, Heidelberg origin, incrossed >25 generations | [Zantke et al. 2014](https://pubmed.ncbi.nlm.nih.gov/24807110/) |
