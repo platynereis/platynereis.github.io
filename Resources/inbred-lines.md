@@ -3,7 +3,7 @@ layout: page
 title: Inbred lines
 permalink: /resources/inbred/
 ---
-<br>
+
 
 | Inbred line | Genotype | References |
 | -------- | ----------- | ------------ |

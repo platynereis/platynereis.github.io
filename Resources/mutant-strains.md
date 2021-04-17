@@ -4,12 +4,8 @@ title: Mutant strains
 permalink: /resources/mutants/
 ---
 
-A collection of published and unpublished mutant strains. For further information contact the lab.
 
-<br>
-
-
-| Mutant strains | Genotype | Viability | References |
+| Mutant strain | Genotype | Viability | References |
 | -------- | ----------- | ------------ | -------------- |
 | *pkd1-1* | pkd1-1(i1/i1) <br> pkd1-1(∆1/∆1) | homozygous | [Bezares-Calderón et al. 2018](https://elifesciences.org/articles/36262) |
 | *pkd2-1* | pkd2-1(∆4/∆4) <br> pkd2-1(∆5/∆5) <br> pkd2-1(∆137/∆137) | homozygous | [Bezares-Calderón et al. 2018](https://elifesciences.org/articles/36262) |
