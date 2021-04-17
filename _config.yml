@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Platynereis is an emerging model system for studying development, evolution,
   regeneration, chronobiology and neurobiology. The website provides information
   about Platynereis, research, techniques and resources.
-baseurl: "platynereis.com" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://platynereis.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  platynereis
 
