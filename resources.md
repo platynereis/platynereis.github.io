@@ -16,7 +16,4 @@ permalink: /resources/
 
 - [Techniques](/resources/techniques/) <br>
 
-- [Protocols](/resources/protocols/) <br>
-
-- [Reagents](/resources/reagents/) <br>
 
