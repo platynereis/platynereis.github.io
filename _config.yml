@@ -46,6 +46,7 @@ header_pages:
   - people.md
   - resources.md
   - literature.md
+  - blog.md
   - about.markdown
 
 # Exclude from processing.
