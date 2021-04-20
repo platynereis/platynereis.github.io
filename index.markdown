@@ -4,13 +4,6 @@ title: Platynereis dumerilii
 #permalink: /home/
 ---
 
-### Blog
-
-{% for post in site.posts %}
-  <li><a href="{{ post.url }}">{{post.title}}</a></li>
-
-{% endfor %}
-
 <br>
 
 The lifecycle of *Platynereis dumerilii* is characterized by several behavioral and habitat transitions. The free-swimming primary larva undergoes metamorphosis and settles in shallow vegetated habitats. At this stage, *Platynereis* secrets mucus tubes, which are attached to the vegetation. After another metamorphosis the now matured adult swims to the water surface and releases the gametes for external fertilization. 
