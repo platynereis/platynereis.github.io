@@ -4,7 +4,7 @@ An effort to facilitate access to the published and unpublished _Platynereis dum
 
 ## The `platynereis` core maintenance team
 
-At the moment, the website is maintained by
+At the moment, the website (https://platynereis.github.io/) is maintained by
 
 - Nadine Randel ([@nrandel](https://github.com/nrandel))
 - Nikolaos Papadopoulos ([@galicae](https://github.com/galicae))
