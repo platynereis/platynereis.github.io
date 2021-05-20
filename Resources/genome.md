@@ -8,7 +8,7 @@ permalink: /resources/genome/
 | Database | Description | Stage(s)[^1] |
 | -------- | ----------- | ----------- |
 | [PdumBase](http://140.109.48.81/platynereis) | Transcriptome database of multiple developmental stages [(Chou et al. 2018)](https://link.springer.com/article/10.1186/s12864-018-4987-0). | 2hpf-14hpf, larva and adult[^2] |
-| [Neuropeptide complement](http://pdumbase.gdcb.iastate.edu) | Stage specific neuropeptide transcriptome profile [(Conzelmann et al. 2013)](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-14-906). | larva and adult[^2] |
+| [Neuropeptide complement](http://140.109.48.81/platynereis) | Stage specific neuropeptide transcriptome profile [(Conzelmann et al. 2013)](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-14-906). | larva and adult[^2] |
 | COI sequences | COI sequences of *Platynereis* sp. and *Amphiglena mediterranea* ([Calosi et al. 2013](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3758176/)[^3], [Wäge et al. 2017](https://link.springer.com/article/10.1007/s00227-017-3222-x)[^4]). | adult |
 | [Jékely lab transcriptomes](https://jekelylab.ex.ac.uk/blast/) | Transcriptome database and MPI ESTs. | |
 
