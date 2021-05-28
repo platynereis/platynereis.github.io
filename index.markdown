@@ -8,6 +8,6 @@ The lifecycle of *Platynereis dumerilii* is characterized by several behavioral 
 
 The lifecycle can be completed under laboratory conditions. Established techniques and transgenic lines make *Platynereis* an accessible model organism. Several unique features distinguish it from other model organisms and provide a niche for new research questions. 
 
-Major research interests are embryology, pelago-benthic coupling, multimodal atlases, connectomics, regeneration, chronobiology, gametogenesis, reproduction, evolution, ecology and toxicology [(Özpolat et al. 2021)](xxx).
+Major research interests are embryology, pelago-benthic coupling, multimodal atlases, neurobiology, regeneration, chronobiology, gametogenesis, reproduction, evolution, ecology and toxicology [(Özpolat et al. 2021)](xxx).
 
 
