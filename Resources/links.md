@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Culture
+title: Links
 permalink: /resources/links/
 ---
 
