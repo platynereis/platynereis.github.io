@@ -22,3 +22,5 @@ Multiple inbred lines are hosted by individual labs.
 - [**Techniques**](/resources/techniques/) <br>
 Applied methods, which addresses questions about "Lifecycle and Ecology", "Behavior", "Imaging", "Sequencing and DNA/ RNA editing" and "Biochemistry".
 
+- [**Community**](/resources/community/) <br>
+
