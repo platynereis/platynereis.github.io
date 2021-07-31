@@ -4,7 +4,7 @@ title: Community
 permalink: /resources/community/
 ---
 
-**Working groups**
+## **Working groups**
 
 The working groups where created to improve the research and encourage collaboration within and outside the *Platynereis* community. To join any working group, contact us [here](platynereis@gmail.com).
 
