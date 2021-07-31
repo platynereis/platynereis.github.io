@@ -9,7 +9,8 @@ permalink: /resources/techniques/
 | ----------- | -------------- |
 | Platynereis acquaculture | [Kuehn et al. 2019](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226156), [Fischer (ed.) 2013](https://www.amazon.co.uk/Helgoland-Manual-Animal-Development-Invertebrates/dp/3899371615) |
 | Ecology and Distribution | [Veedin Rajan et al. 2021](https://www.nature.com/articles/s41559-020-01356-1), [Wäge et al. 2017](https://link.springer.com/article/10.1007/s00227-017-3222-x), [Popa et al. 2013](https://onlinelibrary.wiley.com/doi/abs/10.1002/jez.1835), [Giangrande et al. 2002](https://onlinelibrary.wiley.com/doi/abs/10.1002/jez.1835) |
-| Toxicology | [Jha et al. 1997](https://pubmed.ncbi.nlm.nih.gov/9268043/), [García-Alonso et al. 2011](https://pubmed.ncbi.nlm.nih.gov/21642012/), [André et al. 2017](https://pubmed.ncbi.nlm.nih.gov/28535483/)
+| Toxicology | [Jha et al. 1997](https://pubmed.ncbi.nlm.nih.gov/9268043/), [García-Alonso et al. 2011](https://pubmed.ncbi.nlm.nih.gov/21642012/), [André et al. 2017](https://pubmed.ncbi.nlm.nih.gov/28535483/) |
+| Ageing | [Golding and Yuwono 1994](https://www.pnas.org/content/91/25/11777), [Schenk et al. 2016](https://elifesciences.org/articles/17126), [Schenk and Bannister et al. 2019](https://elifesciences.org/articles/41556) |
 
 | Behavior | References |
 | ----------- | -------------- |
