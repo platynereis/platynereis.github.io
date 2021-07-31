@@ -6,10 +6,10 @@ permalink: /resources/community/
 
 **Working groups**
 
-The working groups where created to improve the research and encourage collaboration within and outside the *Platynereis* community. The groups are open to everybody.
+The working groups where created to improve the research and encourage collaboration within and outside the *Platynereis* community. To join any working group, contact us [here](platynereis@gmail.com).
 
 ***Cultering Working Group*** <br>
-Discussing and communicating advancements, issues or notable methodologies on Platynereis cultering.
+Advancements, issues or notable methodologies on Platynereis cultering.
 
 ***Cryopreservation Working Group*** <br>
 Establishing *Platynereis* sperm and larvae cryopreservation.
@@ -17,7 +17,6 @@ Establishing *Platynereis* sperm and larvae cryopreservation.
 ***Strain and Gene Nomenclature Working group*** <br>
 
 ***Ensembl Metazoa Working Group*** <br>
-Uploading the *Platynereis* genome to Ensembl Metazoa.
 
 ***Promotor/ Ennhancer Working Group*** <br>
 
