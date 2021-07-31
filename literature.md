@@ -5,9 +5,12 @@ permalink: /literature/
 ---
 
 
-[Last update: April 2021]
+[Last update: July 2021]
 
 ### 2021
+
+
+Zelaya-Lainez L., Balduzzi G., Lahayne O., Ikeda KN, Raible F, Herzig C, Nischkauer W, Limbeck A, Hellmich C. **Jaws of Platynereis dumerilii: Miniature Biogenic Structures with Hardness Properties Similar to Those of Crystalline Metals.** JOM 73, 2390–2402 (2021). [https://doi.org/10.1007/s11837-021-04702-1](https://doi.org/10.1007/s11837-021-04702-1).
 
 Torres JP, Lin Z, Watkins M, Salcedo PF, Baskin RP, Elhabian S, Safavi-Hemami H, Taylor D, Tun J, Concepcion GP, Saguil N, Yanagihara AA, Fang Y, McArthur JR, Tae HS, Finol-Urdaneta RK, Özpolat BD, Olivera BM, Schmidt EW. **Small-molecule mimicry hunting strategy in the imperial cone snail, Conus imperialis.** Sci Adv. 2021 Mar 12;7(11):eabf2704. [doi: 10.1126/sciadv.abf2704](https://pubmed.ncbi.nlm.nih.gov/33712468/). PMID: 33712468; PMCID: PMC7954447.
 Format:
