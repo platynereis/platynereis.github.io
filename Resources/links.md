@@ -15,7 +15,7 @@ To join updates, discussion and interaction within the spiralian community and *
 ***Teaching resources*** <br>
 [Annelids - Model organisms](https://digital-marine.sorbonne-universite.fr/index.php/annelids) <br>
 [Platynereis dumerilii - An Overview](https://av.tib.eu/media/9118) <br>
-[The Earliest Events in Spiralian Development](https://av.tib.eu/media/23194) <br>
+[Reproduction and Postembryonic Development](https://av.tib.eu/media/23194) <br>
 [The Earliest Events in Spiralian Development](https://av.tib.eu/media/23043?hl=Platynereishttps://av.tib.eu/media/23043?hl=Platynereis) 
 
 
