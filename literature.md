@@ -9,6 +9,7 @@ permalink: /literature/
 
 ### 2021
 
+Planques A, Kerner P, Ferry L, Grunau C, Gazave E, Vervoort M. **DNA methylation atlas and machinery in the developing and regenerating annelid Platynereis dumerilii.** BMC Biol. 2021 Aug 3;19(1):148. [doi: 10.1186/s12915-021-01074-5](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-021-01074-5). PMID: 34340707.
 
 Zelaya-Lainez L., Balduzzi G., Lahayne O., Ikeda KN, Raible F, Herzig C, Nischkauer W, Limbeck A, Hellmich C. **Jaws of Platynereis dumerilii: Miniature Biogenic Structures with Hardness Properties Similar to Those of Crystalline Metals.** JOM 73, 2390–2402 (2021). [https://doi.org/10.1007/s11837-021-04702-1](https://doi.org/10.1007/s11837-021-04702-1).
 
