@@ -28,7 +28,7 @@ We will take advantage of the virtual conference environment to meet in the _Pla
 <br>
 
 # Registration #
-As indicated above, we will have one invited speaker per session. We encourage all others to apply for oral presentations by submitting a title and a 2 sentence summary of your work. Please click <a style="font-weight:bold" href='https://docs.google.com/forms/d/1Ww2NIpIVM7LucEv8m6hhLnwpbEvbM1H_WaQdvRf0hbQ' target="_blank">HERE</a> to register. Registrations are open until **31st October 2021**.
+We will have one invited speaker per session (to be announced). We encourage all others to apply for oral presentations by submitting a title and a 2 sentence summary of your work. Please click <a style="font-weight:bold" href='https://docs.google.com/forms/d/1Ww2NIpIVM7LucEv8m6hhLnwpbEvbM1H_WaQdvRf0hbQ/viewform' target="_blank">HERE</a> to register. Registrations are open until **31st October 2021**.
 <br>
 <br>
 
