@@ -6,7 +6,7 @@ permalink: /resources/community/
 
 ### Working groups
 
-The working groups where created to improve the research and encourage collaboration within and outside the *Platynereis* community. To join any working group, contact us [here](platynereis@gmail.com).
+The working groups where created to improve the research and encourage collaboration within and outside the *Platynereis* community. To join any working group, send us an email at platynereis@gmail.com.
 
 ***Cultering Working Group*** <br>
 Advancements, issues or notable methodologies on Platynereis cultering.
