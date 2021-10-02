@@ -9,7 +9,7 @@ permalink: /resources/community/
 The working groups where created to improve the research and encourage collaboration within and outside the *Platynereis* community. To join any working group, send us an email at platynereis@gmail.com.
 
 ***Cultering Working Group*** <br>
-Advancements, issues or notable methodologies on Platynereis cultering.
+Advancements, issues or notable methodologies on *Platynereis* cultering.
 
 ***Cryopreservation Working Group*** <br>
 Establishing *Platynereis* sperm and larvae cryopreservation.
