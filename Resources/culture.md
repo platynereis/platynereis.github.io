@@ -9,7 +9,7 @@ The standard [culturing protocol](https://github.com/platynereis/resources/blob/
 
 Over the years, the protocol has been adaptad to meet the needs of each lab. For example, [Kuehn et al. 2019](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226156) set up a scaleable and movable culturing system with standardized feeding conditions. 
 
-A summary of the latest improvements and currently used cultering methods can be found in our recent *Platynereis* review article [(Özpolat et al. 2021)](xxx).
+A summary of the latest improvements and currently used cultering methods can be found in our recent *Platynereis* review article [(Özpolat et al. 2021)](https://evodevojournal.biomedcentral.com/articles/10.1186/s13227-021-00180-3).
 
 <br>
 <br>
