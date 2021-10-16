@@ -5,9 +5,19 @@ permalink: /literature/
 ---
 
 
-[Last update: July 2021]
+[Last update: Sept 2021]
 
 ### 2021
+
+Özpolat BD, Randel N, Williams EA, Bezares-Calderón LA, Andreatta G, Balavoine G, Bertucci PY, Ferrier DEK, Gambi MC, Gazave E, Handberg-Thorsager M, Hardege J, Hird C, Hsieh YW, Hui J, Mutemi KN, Schneider SQ, Simakov O, Vergara HM, Vervoort M, Jékely G, Tessmar-Raible K, Raible F, Arendt D. **The Nereid on the rise: Platynereis as a model system.** Evodevo. 2021 Sep 27;12(1):10. [doi: 10.1186/s13227-021-00180-3](https://evodevojournal.biomedcentral.com/articles/10.1186/s13227-021-00180-3). PMID: 34579780; PMCID: PMC8477482.
+
+Vergara HM, Pape C, Meechan KI, Zinchenko V, Genoud C, Wanner AA, Mutemi KN, Titze B, Templin RM, Bertucci PY, Simakov O, Dürichen W, Machado P, Savage EL, Schermelleh L, Schwab Y, Friedrich RW, Kreshuk A, Tischer C, Arendt D. **Whole-body integration of gene expression and single-cell morphology.** Cell. 2021 Sep 2;184(18):4819-4837.e22. [doi: 10.1016/j.cell.2021.07.017](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8445025/). Epub 2021 Aug 10. PMID: 34380046; PMCID: PMC8445025.
+
+Maslakov GP, Kulishkin NS, Surkova AA, Kulakova MA. **Maternal Transcripts of Hox Genes Are Found in Oocytes of Platynereis dumerilii (Annelida, Nereididae).** J Dev Biol. 2021 Sep 4;9(3):37. [doi: 10.3390/jdb9030037](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8482071/). PMID: 34564086; PMCID: PMC8482071.
+
+Conde-Vela VM. **Revision of Ceratonereis Kinberg, 1865 recorded from the Caribbean Sea, with description of two new Ceratonereis species and a new combination of Platynereis Kinberg, 1865** Zootaxa. 2021 Aug 5026;3. doi: 10.11646/zootaxa.5026.3.1
+
+Revilla-I-Domingo R, Rajan VBV, Waldherr M, Prohaczka G, Musset H, Orel L, Gerrard E, Smolka M, Stockinger A, Farlik M, Lucas RJ, Raible F, Tessmar-Raible K. **Characterization of cephalic and non-cephalic sensory cell types provides insight into joint photo- and mechanoreceptor evolution.** Elife. 2021 Aug 5;10:e66144. [doi: 10.7554/eLife.66144](https://elifesciences.org/articles/66144). PMID: 34350831; PMCID: PMC8367381. 
 
 Planques A, Kerner P, Ferry L, Grunau C, Gazave E, Vervoort M. **DNA methylation atlas and machinery in the developing and regenerating annelid Platynereis dumerilii.** BMC Biol. 2021 Aug 3;19(1):148. [doi: 10.1186/s12915-021-01074-5](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-021-01074-5). PMID: 34340707.
 
