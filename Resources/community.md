@@ -28,4 +28,7 @@ Generating a central resources database for the community.
 
 ***Plasmid Maintenance Working Group*** <br>
 
+***Community Website Working Group*** <br>
+Development and maintenance of the *Platynereis* website.
+
 
