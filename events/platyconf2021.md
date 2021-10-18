@@ -9,11 +9,17 @@ Following the success of last year’s _Platynereis_ virtual conference, we are 
 <br>
 
 # Sessions #
-- Development and Regeneration (embryogenesis, segmentation, regeneration)
-- Genomics / transcriptomics
-- Neurobiology (neuroanatomy, neurodevelopment, circuit mechanisms, behavior)
-- Evolution (trait evol., morphology)
-- Ecology (settlement, population genomics, phylogeny)
+  Invited speakers
+- **Development and Regeneration (embryogenesis, segmentation, regeneration)**<br>
+  Duygu Özpolat (MBL)
+- **Genomics / transcriptomics**<br>
+  Oleg Simakov (University of Vienna)
+- **Neurobiology (neuroanatomy, neurodevelopment, circuit mechanisms, behavior)**<br>
+  Kristin Tessmar-Raible (University of Vienna)
+- **Evolution (trait evol., morphology)**<br>
+  Detlev Arendt (EMBL)
+- **Ecology (settlement, population genomics, phylogeny)**<br>
+  Elizabeth Williams (University of Exeter)
 <br>
 <br>
 
@@ -23,7 +29,7 @@ Following the success of last year’s _Platynereis_ virtual conference, we are 
 <br>
 
 # Gatherings #
-We will take advantage of the virtual conference environment to meet in the _Platynereis_ community working groups to discuss progress, difficulties and come up with possible solutions. Also, there will be meet-the-speaker-sessions and the possibility to meet virtually in smaller groups. More information on the gatherings later.
+We will take advantage of the virtual conference environment to meet in the _Platynereis_ community working groups to discuss progress, difficulties and come up with possible solutions. Also, there will be meet-the-speaker-sessions and the possibility to meet virtually in smaller groups. We will be using the gather.town paltform for group discussions and social interactions. More information on the gatherings later.
 <br>
 <br>
 
