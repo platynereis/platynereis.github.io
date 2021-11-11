@@ -38,6 +38,11 @@ Abstract submissions are closed, but you can still register until **28th Novembe
 <br>
 <br>
 
+# Sponsors
+We thank the <a href="https://www.biologists.com/" target="_blank">Company of Biologists</a> for sponsoring this conference.<br>
+<img src="/events/platyconf2021-CoB-logo.png" alt="Companz of Biologists" width="200"/><br>
+[https://www.biologists.com/](https://www.biologists.com/)
+
 # _Platynereis_ Virtual Conference Organizing Committee
 - Eve Gazave
 - Mette Handberg-Thorsager
