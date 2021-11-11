@@ -34,7 +34,7 @@ We will take advantage of the virtual conference environment to meet in the _Pla
 <br>
 
 # Registration #
-We have one invited speaker per session. We encourage all others to apply for oral presentations by submitting a title and a 2 sentence summary of your work. Please click <a style="font-weight:bold" href='https://docs.google.com/forms/d/1Ww2NIpIVM7LucEv8m6hhLnwpbEvbM1H_WaQdvRf0hbQ/viewform' target="_blank">HERE</a> to register. <s>Registrations are open until 31st October 2021.</s> Resgitrations extended until **7th November 2021**.
+Abstract submissions are closed, but you can still register until **28th November 2021**. Please click <a style="font-weight:bold" href='https://docs.google.com/forms/d/e/1FAIpQLSeNva2BX8zsV6CiSPtqJTlZqadmgR2U4-Numh5YgjiH9HFaYA/viewform' target="_blank">HERE</a> to register.
 <br>
 <br>
 
