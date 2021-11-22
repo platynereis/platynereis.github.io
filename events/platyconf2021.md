@@ -33,6 +33,12 @@ We will take advantage of the virtual conference environment to meet in the _Pla
 <br>
 <br>
 
+# Programme
+
+You can downlaod the full programme  <a style="font-weight:bold" href='/events/platyconf2021-program.pdf' target="_blank">HERE</a>
+<br>
+<br>
+
 # Registration #
 Abstract submissions are closed, but you can still register until **28th November 2021**. Please click <a style="font-weight:bold" href='https://docs.google.com/forms/d/e/1FAIpQLSeNva2BX8zsV6CiSPtqJTlZqadmgR2U4-Numh5YgjiH9HFaYA/viewform' target="_blank">HERE</a> to register.
 <br>
@@ -42,6 +48,8 @@ Abstract submissions are closed, but you can still register until **28th Novembe
 We thank the <a href="https://www.biologists.com/" target="_blank">Company of Biologists</a> for sponsoring this conference.<br>
 <img src="/events/platyconf2021-CoB-logo.png" alt="Companz of Biologists" width="200"/><br>
 [https://www.biologists.com/](https://www.biologists.com/)
+<br>
+<br>
 
 # _Platynereis_ Virtual Conference Organizing Committee
 - Eve Gazave
