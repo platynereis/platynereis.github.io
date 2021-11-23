@@ -34,8 +34,7 @@ We will take advantage of the virtual conference environment to meet in the _Pla
 <br>
 
 # Programme
-
-You can downlaod the full programme  <a style="font-weight:bold" href='/events/platyconf2021-program.pdf' target="_blank">HERE</a>
+You can view the programme [**HERE**](/events/platyconf2021-program) or download the pdf version <a style="font-weight:bold" href='/events/platyconf2021-program.pdf' target="_blank">HERE</a>.
 <br>
 <br>
 
