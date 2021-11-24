@@ -45,7 +45,7 @@ Structure, function and evolution of neural circuits and neuronal cell types and
 <br>
 
 ### [Özpolat lab](https://www.mbl.edu/bell/current-faculty/duygu-ozpolat/), *Marine Biological Laboratory, Woods Hole (USA)*
-Mechanisms of reproductive cell generation.
+Mechanisms of reproductive cell formation and regeneration.
 
 <br>
 
