@@ -43,7 +43,7 @@ permalink: /events/platyconf2021-program/
 #### <a name="WGs1"></a>**Working Group Session 1**<br>Chair: Nadine Randel and B. Duygu Özpolat)
 
 | 00:05 | 16:05 | 17:05 | 11:05  | Introduction |
-| 00:15 | 16:15 | 17:15 | 11:15  | WG Cryopreservation<br>_Luis Alberto Bezares Calderon_ |
+| 00:15 | 16:15 | 17:15 | 11:15  | WG Cryopreservation<br>_Estefania Paredes and Luis Alberto Bezares Calderón_ |
 | 00:35 | 16:35 | 17:35 | 11:35  | WG Platynereis culture<br>_Cameron Hird_ |
 | 00:40 | 16:40 | 17:40 | 11:40  | WG Behavior and reproduction<br>_Jorg Hardege_ |
 | 00:45 | 16:45 | 17:45 | 11:45  | Questions to working groups |
