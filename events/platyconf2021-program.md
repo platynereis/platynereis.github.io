@@ -64,13 +64,13 @@ permalink: /events/platyconf2021-program/
 #### <a name="Evolution"></a>**Evolution**<br>(Chair: Mette Handberg-Thorsager)
 
 | 21:05 | 13:05 | 14:05 | 08:05  | **Detlev Arendt** _EMBL_<br>The evolution of the bilaterian brain |
-| 21:30 | 13:30 | 14:30 | 08:30  | **Sanja Jasek** _University of Exeter_<br>Desmosomal connectome of the _Platynereis_ larva<br><br>**Stephan Q Schneider** _Institute of Cellular and Organismic Biology, Academia Sinica_<br>Of cilia and worms: A phylogenomic & evo-devo approach to spiralian evolution<br><br>**Vinca Yadav** _Max Planck Institute of Molecular Cell Biology and Genetics_<br>Patterns of energy utilisation during early embryonic development of _Platynereis dumerilii_<br><br>**Tobias Gerber** _EMBL_<br>Determining hotspots of cellular adaptation in _Platynereis_ |
+| 21:30 | 13:30 | 14:30 | 08:30  | **Sanja Jasek** _University of Exeter_<br>Desmosomal connectome of the _Platynereis_ larva<br><br>**Stephan Q Schneider** _Institute of Cellular and Organismic Biology, Academia Sinica_<br>Of cilia and worms: A phylogenomic & evo-devo approach to spiralian evolution<br><br>**Vinca Yadav** _Max Planck Institute of Molecular Cell Biology and Genetics_<br>Patterns of energy utilisation during early embryonic development of _Platynereis dumerilii_<br><br>**Gabriele Andreatta** _Max Perutz Laboratories, University of Vienna_<br>Molecular mechanisms orchestrating sexual maturation and reproductive timing in _Platynereis_ |
 | 22:20 | 14:20 | 15:20 | 09:20  | Break |
 
 #### <a name="Ecology"></a>**Ecology**<br>(Chair: Oleg Simakov)
 
 | 22:35 | 14:35 | 15:35 | 09:35  | **Elizabeth Williams** _University of Exeter_<br>Larval settlement in _Platynereis_ |
-| 23:00 | 15:00 | 16:00 | 10:00  | **Jorg Hardege** _Hull University_<br>Behavioral ecology of _Platynereis dumerilii_ reproduction<br><br>**Camilla Dellatorre** _University of Milan_<br>The _Platynereis spp._ as ideal model organism to study adaptation to ocean acidification: a case study in the CO2 vent system off the Castello Aragonese at Ischia island (Italy)<br><br>**Victoria Moris** _University of Brussels_<br>Impacts of ocean acidification on chemical communication in _Platynereis dumerilii_<br><br>**Gabriele Andreatta** _Max Perutz Laboratories, University of Vienna_<br>Molecular mechanisms orchestrating sexual maturation and reproductive timing in _Platynereis_ |
+| 23:00 | 15:00 | 16:00 | 10:00  | **Jorg Hardege** _Hull University_<br>Behavioral ecology of _Platynereis dumerilii_ reproduction<br><br>**Camilla Dellatorre** _University of Milan_<br>The _Platynereis spp._ as ideal model organism to study adaptation to ocean acidification: a case study in the CO2 vent system off the Castello Aragonese at Ischia island (Italy)<br><br>**Victoria Moris** _University of Brussels_<br>Impacts of ocean acidification on chemical communication in _Platynereis dumerilii_<br><br>**Tobias Gerber** _EMBL_<br>Determining hotspots of cellular adaptation in _Platynereis_ |
 | 23:50 | 15:50 | 16:50 | 10:50  | Break |
 
 #### <a name="WGs2"></a>**Working Group Session 2**<br>Chair: Nadine Randel and B. Duygu Özpolat)
