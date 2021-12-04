@@ -5,9 +5,11 @@ permalink: /literature/
 ---
 
 
-[Last update: Sept 2021]
+[Last update: Dec 2021]
 
 ### 2021
+
+Kuehn E, Clausen DS, Null RW, Metzger BM, Willis AD, Özpolat BD. **Segment number threshold determines juvenile onset of germline cluster expansion in Platynereis dumerilii.** J Exp Zool B Mol Dev Evol. 2021 Nov 18. [doi: 10.1002/jez.b.23100](https://onlinelibrary.wiley.com/doi/10.1002/jez.b.23100). Epub ahead of print. PMID: 34793615.
 
 Özpolat BD, Randel N, Williams EA, Bezares-Calderón LA, Andreatta G, Balavoine G, Bertucci PY, Ferrier DEK, Gambi MC, Gazave E, Handberg-Thorsager M, Hardege J, Hird C, Hsieh YW, Hui J, Mutemi KN, Schneider SQ, Simakov O, Vergara HM, Vervoort M, Jékely G, Tessmar-Raible K, Raible F, Arendt D. **The Nereid on the rise: Platynereis as a model system.** Evodevo. 2021 Sep 27;12(1):10. [doi: 10.1186/s13227-021-00180-3](https://evodevojournal.biomedcentral.com/articles/10.1186/s13227-021-00180-3). PMID: 34579780; PMCID: PMC8477482.
 
