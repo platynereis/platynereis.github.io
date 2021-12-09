@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Platynereis dumerilii
-email:  platynereis@gmail.com
+email:  p.dumerilii@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Platynereis is an emerging model system for studying development, evolution,
   regeneration, chronobiology and neurobiology. The website provides information
