@@ -54,7 +54,7 @@ permalink: /resources/techniques/
 
 | Sequencing and DNA/ RNA editing | References |
 | ----------- | -------------- |
-| PdumBase | [PdumBase](http://140.109.48.81/platynereis/controller.php?action=blast](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpdumbase2020.icob.sinica.edu.tw%2Fplatynereis&amp;data=05%7C01%7Cnr479%40universityofcambridgecloud.onmicrosoft.com%7Ce4a7767a1ef34e4a8d5d08da8b2b04a1%7C49a50445bdfa4b79ade3547b4f3986e9%7C0%7C0%7C637975316392209159%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000%7C%7C%7C&amp;sdata=o3D%2B%2FjhW9ivb50v953uqS%2FqEXCXIywSC4jcVYZrRfsI%3D&amp;reserved=0) |
+| PdumBase | [PdumBase](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpdumbase2020.icob.sinica.edu.tw%2Fplatynereis&amp;data=05%7C01%7Cnr479%40universityofcambridgecloud.onmicrosoft.com%7Ce4a7767a1ef34e4a8d5d08da8b2b04a1%7C49a50445bdfa4b79ade3547b4f3986e9%7C0%7C0%7C637975316392209159%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000%7C%7C%7C&amp;sdata=o3D%2B%2FjhW9ivb50v953uqS%2FqEXCXIywSC4jcVYZrRfsI%3D&amp;reserved=0) |
 | Jékely lab transcriptomes | [https://jekelylab.ex.ac.uk/blast/](https://jekelylab.ex.ac.uk/blast/) |
 | Global and gene-specific DNA methylation quantifications  | [Planques et al. 2020](https://www.biorxiv.org/content/10.1101/2020.11.13.381673v1) |
 | Transcriptomics | [Schenk and Bannnister et al. 2019](https://elifesciences.org/articles/41556), [Conzelmann et al. 2013](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-14-906), [Wäge et al. 2016](https://www.sciencedirect.com/science/article/abs/pii/S014765131530124X) |
