@@ -69,7 +69,7 @@ permalink: /resources/techniques/
 | Gene knock-down (morpholinos, shRNA) | [Handberg-Thorsager and Gutierrez-Mazariegos et al. 2018](https://advances.sciencemag.org/content/4/2/eaao1261), [Conzelmann et al. 2013](https://www.pnas.org/content/110/20/8224.long), [Shahidi et al. 2015](https://elifesciences.org/articles/11147), [Williams et al. 2015](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4307165/#idm139842389694304title) |
 
 
-| Biochemistry | References |
+| Biochemistry | References | 
 | ----------- | -------------- |
 | Western blotting | [Stephan and Bowerman 2007](https://www.sciencedirect.com/science/article/pii/S1534580707001979), [Rebscher and Zelada-Gonzáles et al. 2007](https://www.sciencedirect.com/science/article/pii/S0012160607002461#!), [Poehn and Krishnan et al. 2021](https://doi.org/10.1101/2021.04.16.439809), [Zurl et al. 2021](https://doi.org/10.1101/2021.04.16.440114) |
 | Northern analysis | [Pfeifer et al. 2014](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0096702), [Rebscher and Zelada-Gonzáles et al. 2007](https://www.sciencedirect.com/science/article/pii/S0012160607002461#!) |
