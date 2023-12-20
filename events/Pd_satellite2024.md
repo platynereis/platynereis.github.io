@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Platynereis Satellite Meeting at Euro Evo Devo 
+title: Platynereis Satellite Meeting 2024 
 permalink: /events/Pd_satellite2024/
 ---
 
@@ -9,9 +9,9 @@ We invite the Platynereis community to submit abstracts for the [**Platynereis S
 Abstract submission deadline: 31.01.2024
 [https://www.helsinki.fi/en/conferences/euroevodevo-2024](https://www.helsinki.fi/en/conferences/euroevodevo-2024)
 
-Organizing committee
-Detlev Arendt
-B. Duygu Özpolat
-Elizabeth Williams
-Gabriele Andreatta
+Organizing committee <br>
+Detlev Arendt <br>
+B. Duygu Özpolat <br>
+Elizabeth Williams <br>
+Gabriele Andreatta <br>
 Mette Handberg-Thorsager
