@@ -5,9 +5,23 @@ permalink: /literature/
 ---
 
 
-[Last update: Dec 2021]
+[Last update: Dec 2023]
+
+### 2022
+
+Jasek S, Verasztó C, Brodrick E, Shahidi R, Kazimiers T, Kerbl A, Jékely G. **Desmosomal connectomics of all somatic muscles in an annelid larva.** Elife. 2022 Dec 20;11:e71231. [doi: 10.7554/eLife.71231](https://pubmed.ncbi.nlm.nih.gov/36537659/). PMID: 36537659; PMCID: PMC9876572.
+
+Platova S, Poliushkevich L, Kulakova M, Nesterenko M, Starunov V, Novikova E. Gotta Go Slow: **Two Evolutionarily Distinct Annelids Retain a Common Hedgehog Pathway Composition, Outlining Its Pan-Bilaterian Core.** Int J Mol Sci. 2022 Nov 18;23(22):14312. [doi: 10.3390/ijms232214312](https://pubmed.ncbi.nlm.nih.gov/36430788/). PMID: 36430788; PMCID: PMC9695228.
+
+Poehn B, Krishnan S, Zurl M, Coric A, Rokvic D, Häfker NS, Jaenicke E, Arboleda E, Orel L, Raible F, Wolf E, Tessmar-Raible K. **A Cryptochrome adopts distinct moon- and sunlight states and functions as sun- versus moonlight interpreter in monthly oscillator entrainment.** Nat Commun. 2022 Sep 5;13(1):5220. [doi: 10.1038/s41467-022-32562-z](https://pubmed.ncbi.nlm.nih.gov/36064778/). PMID: 36064778; PMCID: PMC9445029.
+
+Zurl M, Poehn B, Rieger D, Krishnan S, Rokvic D, Veedin Rajan VB, Gerrard E, Schlichting M, Orel L, Ćorić A, Lucas RJ, Wolf E, Helfrich-Förster C, Raible F, Tessmar-Raible K. **Two light sensors decode moonlight versus sunlight to adjust a plastic circadian/circalunidian clock to moon phase**. Proc Natl Acad Sci U S A. 2022 May 31;119(22):e2115725119. [doi: 10.1073/pnas.2115725119](https://pubmed.ncbi.nlm.nih.gov/35622889/). Epub 2022 May 27. PMID: 35622889; PMCID: PMC9295771.
+
+Vervoort M, Gazave E. **Studying Annelida Regeneration Using Platynereis dumerilii.** Methods Mol Biol. 2022;2450:207-226. [doi: 10.1007/978-1-0716-2172-1_11](https://pubmed.ncbi.nlm.nih.gov/35359310/). PMID: 35359310; PMCID: PMC9761536.
 
 ### 2021
+
+Arendt D, Urzainqui IQ, Vergara HM. **The conserved core of the nereid brain: Circular CNS, apical nervous system and lhx6-arx-dlx neurons.** Curr Opin Neurobiol. 2021 Dec;71:178-187. [doi: 10.1016/j.conb.2021.11.008](https://pubmed.ncbi.nlm.nih.gov/34861534/). Epub 2021 Nov 30. PMID: 34861534.
 
 Kuehn E, Clausen DS, Null RW, Metzger BM, Willis AD, Özpolat BD. **Segment number threshold determines juvenile onset of germline cluster expansion in Platynereis dumerilii.** J Exp Zool B Mol Dev Evol. 2021 Nov 18. [doi: 10.1002/jez.b.23100](https://onlinelibrary.wiley.com/doi/10.1002/jez.b.23100). Epub ahead of print. PMID: 34793615.
 
