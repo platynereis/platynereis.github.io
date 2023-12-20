@@ -7,6 +7,26 @@ permalink: /literature/
 
 [Last update: Dec 2023]
 
+### 2023
+
+Vu HH, Behrmann H, Hanić M, Jeyasankar G, Krishnan S, Dannecker D, Hammer C, Gunkel M, Solov'yov IA, Wolf E, Behrmann E. **A marine cryptochrome with an inverse photo-oligomerization mechanism.** Nat Commun. 2023 Oct 30;14(1):6918. [doi: 10.1038/s41467-023-42708-2](https://pubmed.ncbi.nlm.nih.gov/37903809/). PMID: 37903809; PMCID: PMC10616196.
+
+Sachkova M, Modepalli V. **Avoiding UV light.** Elife. 2023 Oct 18;12:e92535. [doi: 10.7554/eLife.92535](https://pubmed.ncbi.nlm.nih.gov/37850625/). PMID: 37850625; PMCID: PMC10584369.
+
+Paré L, Bideau L, Baduel L, Dalle C, Benchouaia M, Schneider SQ, Laplane L, Clément Y, Vervoort M, Gazave E. **Transcriptomic landscape of posterior regeneration in the annelid Platynereis dumerilii.** BMC Genomics. 2023 Oct 2;24(1):583. [doi: 10.1186/s12864-023-09602-z](https://pubmed.ncbi.nlm.nih.gov/37784028/). PMID: 37784028; PMCID: PMC10546743.
+
+Bastin BR, Meha SM, Khindurangala L, Schneider SQ. **Cooption of regulatory modules for tektin paralogs during ciliary band formation in a marine annelid larva.** Dev Biol. 2023 Nov;503:95-110. [doi: 10.1016/j.ydbio.2023.07.006](https://pubmed.ncbi.nlm.nih.gov/37557946/). Epub 2023 Aug 7. PMID: 37557946.
+
+Tsukamoto H, Kubo Y. **A self-inactivating invertebrate opsin optically drives biased signaling toward Gβγ-dependent ion channel modulation.** Proc Natl Acad Sci U S A. 2023 May 23;120(21):e2301269120. [doi: 10.1073/pnas.2301269120](https://pubmed.ncbi.nlm.nih.gov/37186850/). Epub 2023 May 15. PMID: 37186850; PMCID: PMC10214182.
+
+Álvarez-Campos P, Planques A, Bideau L, Vervoort M, Gazave E. **On the hormonal control of posterior regeneration in the annelid Platynereis dumerilii.** J Exp Zool B Mol Dev Evol. 2023 Jun;340(4):298-315. [doi: 10.1002/jez.b.23182](https://pubmed.ncbi.nlm.nih.gov/37160758/). Epub 2022 Nov 22. PMID: 37160758.
+
+Dahlitz I, Dorresteijn A, Holz A. **Remodeling of the Platynereis Musculature during Sexual Maturation.** Biology (Basel). 2023 Feb 6;12(2):254. [doi: 10.3390/biology12020254](https://pubmed.ncbi.nlm.nih.gov/36829531/). PMID: 36829531; PMCID: PMC9953025.
+
+Zinchenko V, Hugger J, Uhlmann V, Arendt D, Kreshuk A. **MorphoFeatures for unsupervised exploration of cell types, tissues, and organs in volume electron microscopy.** Elife. 2023 Feb 16;12:e80918. [doi: 10.7554/eLife.80918](https://pubmed.ncbi.nlm.nih.gov/36795088/). PMID: 36795088; PMCID: PMC9934868.
+
+Tilic E, Herkenrath T, Kirfel G, Bartolomaeus T. **The cellular 3D printer of a marine bristle worm-chaetogenesis in Platynereis dumerilii (Audouin & Milne Edwards, 1834) (Annelida).** Cell Tissue Res. 2023 Feb;391(2):305-322. [doi: 10.1007/s00441-022-03731-9](https://pubmed.ncbi.nlm.nih.gov/36562865/). Epub 2022 Dec 23. PMID: 36562865; PMCID: PMC9889436.
+
 ### 2022
 
 Jasek S, Verasztó C, Brodrick E, Shahidi R, Kazimiers T, Kerbl A, Jékely G. **Desmosomal connectomics of all somatic muscles in an annelid larva.** Elife. 2022 Dec 20;11:e71231. [doi: 10.7554/eLife.71231](https://pubmed.ncbi.nlm.nih.gov/36537659/). PMID: 36537659; PMCID: PMC9876572.
