@@ -74,4 +74,4 @@ Elizabeth Williams <br>
 Gabriele Andreatta <br>
 Mette Handberg-Thorsager<br>
 
-![Platynereis_Satellite_Meeting_poster](/events/Platynereis_Satellite_Meeting_poster2.png)
+![Platynereis_Satellite_Meeting_poster](/events/Platynereis_Satellite_Meeting_poster2.jpg)
