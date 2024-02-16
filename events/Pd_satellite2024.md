@@ -17,6 +17,7 @@ This session is about anything relevant to the genome: Interesting aspects of th
   Oleg Simakov (University of Vienna)<br>
   Kevin Nzumbi Mutemi (EMBL)<br>
   David Ferrier (University of St Andrews)<br>
+  Chema Martin-Duran (Queen Mary University of London)<br>
   <br>
   <br>
 **Advances in building Platynereis resources**<br>
@@ -47,7 +48,6 @@ This session invites contributions about development, posterior growth, segmenta
   **Invited speakers**<br>
   Florian Raible (Max Perutz Labs Vienna)<br>
   Guillaume Balavoine (Institut Jacques Monod)<br>
-  Roman Kostyuchenko (Saint Petersburg State University)<br>
   Rannyele Passos Ribeiro (Washington University in St. Louis)<br>
   Stephan Q Schneider (Academia Sinica)<br>
   <br>
@@ -68,7 +68,6 @@ This session invites contributions about development, posterior growth, segmenta
   **Invited speakers**<br>
   Ragnhild Jacobsen (Kavli Institute)<br>
   Katrine Worsaae (University of Copenhagen)<br>
-  Ekin Tilic (Senckenberg Research Institute and Natural History Museum)<br>
   Conrad Helm (Georg-August-University Göttingen)<br>
 <br>
 <br>
@@ -99,4 +98,4 @@ Elizabeth Williams <br>
 Gabriele Andreatta <br>
 Mette Handberg-Thorsager<br>
 
-![Platynereis_Satellite_Meeting_poster](/events/Platynereis_Satellite_Meeting_poster2.png)
+![Platynereis_Satellite_Meeting_poster](/events/Platynereis_Satellite_Meeting_poster4.png)
