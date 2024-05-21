@@ -44,7 +44,7 @@ This session is about recent advances in all resources in Platynereis including 
   <br>
   <br>
 **Analysis of the Platynereis genome**<br>
-This session is about anything relevant to the genome: Interesting aspects of the analysis, comparative genomics, annotation strategy, etc.
+This session is about anything relevant to the genome: Interesting aspects of the analysis, comparative genomics, annotation strategy, etc.<br>
 <br>
   **Invited speakers**<br>
   Oleg Simakov (University of Vienna)<br>
