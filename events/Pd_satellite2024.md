@@ -10,25 +10,16 @@ that will take place on June 24-25th, right before the EuroEvoDevo2024 Meeting i
 registering. <br>
 <br>
 # Sessions #
-**Analysis of the Platynereis genome**<br>
-This session is about anything relevant to the genome: Interesting aspects of the analysis, comparative genomics, annotation strategy, etc.<br>
+
+**Platynereis development, organogenesis, and regeneration**<br>
+This session invites contributions about development, posterior growth, segmentation, and regeneration incl. stem cells. Research topics encompass molecular and cellular mechanisms leading to the formation or regeneration of a tissue, a cell type or an organ as well as quantification and modeling of these processes.<br>
 <br>
   **Invited speakers**<br>
-  Oleg Simakov (University of Vienna)<br>
-  Kevin Nzumbi Mutemi (EMBL)<br>
-  David Ferrier (University of St Andrews)<br>
-  Chema Martin-Duran (Queen Mary University of London)<br>
-  <br>
-  <br>
-**Advances in building Platynereis resources**<br>
-This session is about recent advances in all resources in Platynereis including but not limited to:  volume EM, cell lineage or axon tracing, multiomics including single cell RNAseq and genomics, live-imaging, clearing and imaging of fixed worms, new molecular techniques, improvements in Platynereis culturing.<br>
-<br>
-  **Invited speakers**<br>
-  Christian Tischer (EMBL)<br>
-  Netsanet Getachew (Max Perutz Labs Vienna)<br>
-  Gáspár Jékely (COS Heidelberg)<br>
-  Lauren Saunders (COS Heidelberg)<br>
-  Nikolaos Papadopoulos (University of Vienna)<br>
+  Florian Raible (Max Perutz Labs Vienna)<br>
+  Guillaume Balavoine (Institut Jacques Monod)<br>
+  Rannyele Passos Ribeiro (Washington University in St. Louis)<br>
+  Stephan Q Schneider (Academia Sinica)<br>
+  Irene del Olmo (Universidad Autónoma de Madrid)<br>
   <br>
   <br>
 **Platynereis nervous system and sensory biology**<br>
@@ -42,17 +33,27 @@ In this session we will focus on nervous system signaling in Platynereis, and ho
   Detlev Arendt (EMBL)<br>
   <br>
   <br>
-**Platynereis development, organogenesis, and regeneration**<br>
-This session invites contributions about development, posterior growth, segmentation, and regeneration incl. stem cells. Research topics encompass molecular and cellular mechanisms leading to the formation or regeneration of a tissue, a cell type or an organ as well as quantification and modeling of these processes.<br>
+**Advances in building Platynereis resources**<br>
+This session is about recent advances in all resources in Platynereis including but not limited to:  volume EM, cell lineage or axon tracing, multiomics including single cell RNAseq and genomics, live-imaging, clearing and imaging of fixed worms, new molecular techniques, improvements in Platynereis culturing.<br>
 <br>
   **Invited speakers**<br>
-  Florian Raible (Max Perutz Labs Vienna)<br>
-  Guillaume Balavoine (Institut Jacques Monod)<br>
-  Rannyele Passos Ribeiro (Washington University in St. Louis)<br>
-  Stephan Q Schneider (Academia Sinica)<br>
+  Christian Tischer (EMBL)<br>
+  Netsanet Getachew (Max Perutz Labs Vienna)<br>
+  Lauren Saunders (COS Heidelberg)<br>
+  Nikolaos Papadopoulos (University of Vienna)<br>
   <br>
   <br>
-  **Platynereis ecology and behavior**<br>
+**Analysis of the Platynereis genome**<br>
+This session is about anything relevant to the genome: Interesting aspects of the analysis, comparative genomics, annotation strategy, etc.
+<br>
+  **Invited speakers**<br>
+  Oleg Simakov (University of Vienna)<br>
+  Kevin Nzumbi Mutemi (EMBL)<br>
+  David Ferrier (University of St Andrews)<br>
+  Chema Martin-Duran (Queen Mary University of London)<br>
+  <br>
+  <br>
+**Platynereis ecology and behavior**<br>
   This session´s speakers will present a broad range of recent advancement in animal Ecology and Behavior that uses Platynereis dumerilii as a model system, ranging from Chemical Ecology to Chronobiology, and from Neuroendocrinology to Population Genetics. This session also invites possible contributions to the TREC (Traversing European coastline) expedition that takes place in 2023/24.<br>
   <br>
   **Invited speakers**<br>
@@ -62,13 +63,23 @@ This session invites contributions about development, posterior growth, segmenta
   Leslie Pan (EMBL)<br>
   <br>
   <br>
-  **Polychaete diversity**<br>
+**Polychaete diversity**<br>
   This session aims to highlight the evolutionary diversity of polychaetes and introduce new polychaete species that are also currently being established as research models to the Platynereis community. This will extend our understanding of annelid phylogeny and help us to place Platynereis morphology, ecology and development within a broader evolutionary context.<br>
   <br>
   **Invited speakers**<br>
-  Ragnhild Jacobsen (Kavli Institute)<br>
+  Ragnhild Irene Jacobsen (Kavli Institute)<br>
   Katrine Worsaae (University of Copenhagen)<br>
   Conrad Helm (Georg-August-University Göttingen)<br>
+  Maria Teresa Aguado (Georg-August-University Göttingen)<br>
+  Jordi Solana (University of Exeter)<br>
+  Allan Carrillo-Baltodano (Queen Mary University of London)<br>
+<br>
+<br>
+
+# Program #
+The program for the Platynereis Satellite Meeting can be found <a
+style="font-weight:bold" href='https://docs.google.com/document/d/1pne0Mn02lG7qcaxOCBsi15HEQ4NOVPpVUDfVhEgWnK8/edit?usp=sharing'
+target="_blank">HERE</a>.<br>
 <br>
 <br>
 
