@@ -35,6 +35,11 @@ Evolution and development of invertebrate organs and cell types.
 
 <br>
 
+### [Huisken lab](https://huiskenlab.com), *Georg-August-University Göttingen (Germany)*
+The Huisken Laboratory develops and employs custom-built light-sheet fluorescence microscopes, known as Flamingo, to study developmental and physiological processes in various organisms, including *Platynereis dumerilii*. Through live imaging, the lab reconstructs developmental cell lineages in *P. dumerilii*, with a particular focus on the nervous and circulatory systems. The fast imaging capabilities of the Flamingo also make it ideal for studying these structures in fixed, stained, cleared, and expanded *P. dumerilii* samples.
+
+<br>
+
 ### [Jékely lab](https://www.exeter.ac.uk/livingsystems/team/profile/index.php?web_id=Gaspar_Jekely), *University of Exeter (United Kingdom)*
 Structure, function and evolution of neural circuits and neuronal cell types and the mechanisms of neuromodulation. 
 
