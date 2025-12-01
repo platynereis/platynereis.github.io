@@ -29,6 +29,6 @@ permalink: /resources/mutants/
 | *hiomt* | hiomt (-22/-22) | homozygous | Unpublished <br> Contact: florian.raible@univie.ac.at |
 | *re* (“RED EYED”, initially called “*or*” by A.Fischer) | mutant in eye and body pigmentation (unknown gene), otherwise wildtype | homozygous | [Fischer 1969](https://link.springer.com/article/10.1007/BF00334235) <br> Maintained: kristin.tessmar@mfpl.ac.at, <br> florian.raible@univi.ac.at |
 | *Prepro-myoinhibitory peptide (MIP)* | MIP (-90/-90), MIP (-10/-10), MIP (-19/-19), MIP (-7/-7) | homozygous | Unpublished <br> Contact: e.williams2@exeter.ac.uk |
-| *No Mechanoreceptor Potential C (NOMPC)* | NOMPC (-1/-1), NOMPC (+1/+1) | homozygous | Unpublished <br> Contact: g.jekely@exeter.ac.uk |
-| *Nitric Oxide Synthase (NOS)* | NOS(-11/-11), NOS (-23/-23) | homozygous | Unpublished <br> Contact: g.jekely@exeter.ac.uk |
+| *No Mechanoreceptor Potential C (NOMPC)* | NOMPC (-1/-1), NOMPC (+1/+1) | homozygous | [Bezares-Calderón](http://dx.doi.org/10.15496/publikation-30979)|
+| *Nitric Oxide Synthase (NOS)* | NOS(-11/-11), NOS (-23/-23) | homozygous | [Jokura et al. 2023](https://doi.org/10.7554/eLife.91258)|
 | *prepro-RGWamide* | RGWa (-171/-171), RGWa (-37/37), RGWa (-37/-37) | homozygous | Unpublished <br> Contact: g.jekely@exeter.ac.uk |
