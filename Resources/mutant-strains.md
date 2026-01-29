@@ -24,8 +24,8 @@ permalink: /resources/mutants/
 | *I-cry, r-ops* | I-cry (-34/-34), <br> r-ops(-1/-1), <br> r-ops(-1/17)| homozygous | Unpublished <br> Contact: kristin.tessmar@mfpl.ac.at |
 | *r-ops1::egfp-f2a-ntr* | Mariner <br> (transposase integrated construct) |  | [Veedin-Rajan et al. 2013](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0075811) |
 | *I-cry, c-ops1* | I-cry (-34/-34), c-ops1 (-7/-8) <br> I-cry (-34/-34), c-ops1 (-8/-8) | homozygous | Unpublished <br> Contact: kristin.tessmar@mfpl.ac.at |
-| *prepro-pdf* | pdf (-14/-14) | homozygous | Unpublished <br> Contact: kristin.tessmar@mfpl.ac.at |
-| *prepro-pdf* | pdf (+4/+4) | homozygous | Unpublished <br> Contact: kristin.tessmar@mfpl.ac.at |
+| *prepro-pdf* | pdf (-14/-14) | homozygous | [Häfker et al. 2024](https://doi.org/10.1371/journal.pbio.3002572) <br> Contact: kristin.tessmar@mfpl.ac.at |
+| *prepro-pdf* | pdf (+4/+4) | homozygous | [Häfker et al. 2024](https://doi.org/10.1371/journal.pbio.3002572) <br> Contact: kristin.tessmar@mfpl.ac.at |
 | *hiomt* | hiomt (-22/-22) | homozygous | Unpublished <br> Contact: florian.raible@univie.ac.at |
 | *re* (“RED EYED”, initially called “*or*” by A.Fischer) | mutant in eye and body pigmentation (unknown gene), otherwise wildtype | homozygous | [Fischer 1969](https://link.springer.com/article/10.1007/BF00334235) <br> Maintained: kristin.tessmar@mfpl.ac.at, <br> florian.raible@univi.ac.at |
 | *Prepro-myoinhibitory peptide (MIP)* | MIP (-90/-90), MIP (-10/-10), MIP (-19/-19), MIP (-7/-7) | homozygous | Unpublished <br> Contact: e.williams2@exeter.ac.uk |
