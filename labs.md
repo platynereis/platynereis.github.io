@@ -5,22 +5,22 @@ permalink: /labs/
 ---
 
 
-### [Arendt lab](https://www.embl.de/research/units/dev_biology/arendt/), *EMBL Heidelberg (Germany)*
+### [Arendt lab](https://www.embl.org/groups/arendt/), *EMBL Heidelberg (Germany)*
 Origin and evolution of the nervous system and the entire animal body in *Plathynereis dumerilii* and other marine animals.
 
 <br>
 
-### [Balavoine lab](https://www.ijm.fr/en/103/research-groups/metazoaires.html), *Institut Jacques Monod/ Université de Paris (France)*
+### [Balavoine lab](https://neuropsi.cnrs.fr/annuaire/guillaume-balavoine/), *Institut NeuroPSI - UMR9197 | CNRS Université Paris-Saclay (France)*
 Early stages of animal evolution and body plan development across metazoan. 
 
 <br>
 
-### [Ferrier lab](https://risweb.st-andrews.ac.uk/portal/en/persons/david-ellard-keith-ferrier(9d113045-bca1-49ef-8315-05b2d8425d14).html), *University of St Andrews (United Kingdom)*
+### [Ferrier lab](https://www.st-andrews.ac.uk/biology/people/dekf), *University of St Andrews (United Kingdom)*
 Diversity of the animal body plans, studying the evolution of genome organization and development.
 
 <br>
 
-### [Hardege lab](https://www.hull.ac.uk/staff-directory/jorg-hardege), *University of Hull (United Kingdom)*
+### [Hardege lab](https://www.chemecolhull.com/jorghardege/), *University of Hull (United Kingdom)*
 Adaptation and plasticity in animal sensory systems.
 
 <br>
@@ -40,7 +40,7 @@ The Huisken Laboratory develops and employs custom-built light-sheet fluorescenc
 
 <br>
 
-### [Jékely lab](https://www.exeter.ac.uk/livingsystems/team/profile/index.php?web_id=Gaspar_Jekely), *University of Exeter (United Kingdom)*
+### [Jékely lab](https://www.cos.uni-heidelberg.de/en/research-groups/gaspar-jekely), *Heidelberg University (Germany)*
 Structure, function and evolution of neural circuits and neuronal cell types and the mechanisms of neuromodulation. 
 
 <br>
@@ -59,7 +59,7 @@ Stem cells, regeneration and developmental plasticity.
 
 <br>
 
-### [Schneider lab](http://140.109.49.7/lab.php?id=48), *Academia Sinica, Taipei (Taiwan)*
+### [Schneider lab](https://icob.sinica.edu.tw/Eng/Faculty/faculty_lab?id=04262948e3b24511ab311e657bec6d42), *Academia Sinica, Taipei (Taiwan)*
 Spiralian development and evolution.
 
 <br>
@@ -69,16 +69,16 @@ Sensory processing of solar and lunar light and their impact on the endogenous c
 
 <br>
 
-### Tomancak lab, *MPI of Molecular Cell Biology and Genetic, Dresden (Germany)*
+### [Tomancak lab](https://www.mpi-cbg.de/research/researchgroups/currentgroups/pavel-tomancak/group-leader), *MPI of Molecular Cell Biology and Genetic, Dresden (Germany)*
 
 <br>
 
-### [Vervoort and Gazave lab](https://www.ijm.fr/en/895/research-groups/stem-cells-development-and-evolution.htm), *Institut Jacques Monod - CNRS/ Université de Paris (France)*
+### [Vervoort and Gazave lab](https://www.ijm.fr/research-topics/gazave-lab-va/?lang=en), *Institut Jacques Monod - CNRS/ Université de Paris (France)*
 Evolution of stem cells and regeneration, using the model organism *Platynereis dumerilii*.
 
 <br>
 
-### [Williams lab](https://biosciences.exeter.ac.uk/staff/profile/index.php?web_id=Elizabeth_Williams), *University of Exeter (United Kingdom)*
+### [Williams lab](https://experts.exeter.ac.uk/27120-elizabeth-williams), *University of Exeter (United Kingdom)*
 Research in my lab focuses on understanding metamorphosis in marine invertebrate larvae. We primarily use *Platynereis* as a lab model. 
 
 
