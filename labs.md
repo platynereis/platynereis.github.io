@@ -15,6 +15,11 @@ Early stages of animal evolution and body plan development across metazoan.
 
 <br>
 
+### Bezares-Calderon Lab, *Villefranche-sur-mer Developmental Biology Laboratory  (France)*
+Function and Evolution of Plankton Sensory Systems
+
+<br>
+
 ### [Ferrier lab](https://www.st-andrews.ac.uk/biology/people/dekf), *University of St Andrews (United Kingdom)*
 Diversity of the animal body plans, studying the evolution of genome organization and development.
 
@@ -87,8 +92,3 @@ Our research has three main areas of investigation:
 - identification of environmental cues for larval settlement and metamorphosis 
 - morphology and physiology of larval sensory systems  
 - molecular signaling pathways for metamorphosis 
-
-<br>
-
-### Bezares-Calderon Lab, *Villefranche-sur-mer Developmental Biology Laboratory  (France)*
-Function and Evolution of Plankton Sensory Systems
