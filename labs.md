@@ -88,3 +88,7 @@ Our research has three main areas of investigation:
 - morphology and physiology of larval sensory systems  
 - molecular signaling pathways for metamorphosis 
 
+<br>
+
+### Bezares-Calderon Lab, *Villefranche-sur-mer Developmental Biology Laboratory  (France)*
+Function and Evolution of Plankton Sensory Systems
